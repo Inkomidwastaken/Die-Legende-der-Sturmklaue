@@ -4,9 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "8a4dfe423ca7a883",
+        "id": "6149b39723840739",
         "type": "leaf",
-        "dimension": 57.81818181818181,
+        "dimension": 40.664961636828636,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,7 +18,7 @@
       {
         "id": "cb5ea4177b9cdc49",
         "type": "leaf",
-        "dimension": 42.18181818181818,
+        "dimension": 59.33503836317135,
         "state": {
           "type": "graph",
           "state": {}
@@ -96,9 +96,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8a4dfe423ca7a883",
+  "active": "6149b39723840739",
   "lastOpenFiles": [
     "Fellonhall.md",
+    "conflict-files-obsidian-git.md",
     "Notes 1.md",
     "Emorio Kaza.md",
     "Ajhum.md",
