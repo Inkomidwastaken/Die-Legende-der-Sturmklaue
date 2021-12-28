@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Emorio Kaza.md",
+            "file": "Fellonhall.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Emorio Kaza.md",
+                "file": "Fellonhall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,11 +98,11 @@
   },
   "active": "8a4dfe423ca7a883",
   "lastOpenFiles": [
+    "Fellonhall.md",
+    "Notes 1.md",
     "Emorio Kaza.md",
     "Ajhum.md",
-    "Fellonhall.md",
     "Kleine Inseln (name wip).md",
-    "Notes 1.md",
     "Schamharal.md",
     "Uthret.md"
   ]
