@@ -11,7 +11,7 @@ tags: location/nation
 
 Kultur:
 - Rühmen sich für Aufbau der Barriere
-- Elfen halten sich oft für was besseres
+- Elfen halten sich meist für was besseres
 
 
 Beziehung zu anderen Reichen:
