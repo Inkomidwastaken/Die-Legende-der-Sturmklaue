@@ -6,7 +6,7 @@
       {
         "id": "8a4dfe423ca7a883",
         "type": "leaf",
-        "dimension": 28.909090909090907,
+        "dimension": 20.33248081841432,
         "state": {
           "type": "markdown",
           "state": {
@@ -16,9 +16,9 @@
         }
       },
       {
-        "id": "93c1c53f6d706625",
+        "id": "811088860341f050",
         "type": "leaf",
-        "dimension": 28.909090909090907,
+        "dimension": 20.33248081841432,
         "state": {
           "type": "markdown",
           "state": {
@@ -30,7 +30,7 @@
       {
         "id": "cb5ea4177b9cdc49",
         "type": "leaf",
-        "dimension": 42.18181818181818,
+        "dimension": 59.335038363171364,
         "state": {
           "type": "graph",
           "state": {}
@@ -108,7 +108,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "93c1c53f6d706625",
+  "active": "811088860341f050",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Kleine Inseln (name wip).md",

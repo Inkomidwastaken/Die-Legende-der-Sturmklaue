@@ -138,6 +138,3 @@ bekannte Piraten:
 - mittelalterlich
 - feuerwafen. zb pistolen oder kanonen . teuer. aus pentagrad.
 - arkane waffen. nur in pentagrad erhältlich. sehr von pentagrad gehütet
-- +
-- l
-- 
