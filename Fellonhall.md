@@ -9,6 +9,9 @@ tags: location/nation
 -  Magie der Faywild erhält den Wald in der Wüßte. Der Wald ist eine abgeschwächte Version der Feywild
 -  Jeder der Fellonhall Ohne Guide oder Einladung betritt wird nie wieder gesehen.
 
+Kultur:
+- Elfen halten sich oft für was besseres
+- Rühmen sich für Aufbau der Barriere
 
 Beziehung zu anderen Reichen:
 [[Schamharal]]:
