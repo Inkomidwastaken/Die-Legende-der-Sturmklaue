@@ -16,3 +16,5 @@ Beziehung zu anderen Reichen:
 - In Schamharal sieht Fellonhall als schwache zauberer
 - Fellonhall sieht Schamharal als Babaren und Sklaventreiber
 - Die Königreiche koexistieren jedoch friedlich, da handel für beide Vorteile bringt
+- ldl
+- test
