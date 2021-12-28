@@ -10,8 +10,9 @@ tags: location/nation
 -  Jeder der Fellonhall Ohne Guide oder Einladung betritt wird nie wieder gesehen.
 
 Kultur:
-- Elfen halten sich oft für was besseres
 - Rühmen sich für Aufbau der Barriere
+- Elfen halten sich oft für was besseres
+
 
 Beziehung zu anderen Reichen:
 [[Schamharal]]:

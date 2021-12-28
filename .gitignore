@@ -1,4 +1,5 @@
-.obsidian/workspace  # to exlude workspace cache
+ # to exlude workspace cache
+.obsidian/workspace
 
 # Add below lines to exclude OS settings and caches
 .trash/
