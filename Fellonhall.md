@@ -18,3 +18,4 @@ Beziehung zu anderen Reichen:
 - Die Königreiche koexistieren jedoch friedlich, da handel für beide Vorteile bringt
 - ldl
 - test
+- test2
