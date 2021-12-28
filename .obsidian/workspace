@@ -6,10 +6,11 @@
       {
         "id": "8a4dfe423ca7a883",
         "type": "leaf",
+        "dimension": 57.81818181818181,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes 1.md",
+            "file": "Kleine Inseln (name wip).md",
             "mode": "source"
           }
         }
@@ -17,6 +18,7 @@
       {
         "id": "cb5ea4177b9cdc49",
         "type": "leaf",
+        "dimension": 42.18181818181818,
         "state": {
           "type": "graph",
           "state": {}
@@ -76,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kleine Inseln (name wip).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,13 +96,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cb5ea4177b9cdc49",
+  "active": "8a4dfe423ca7a883",
   "lastOpenFiles": [
-    "Fellonhall.md",
-    "Uthret.md",
-    "Notes 1.md",
     "Kleine Inseln (name wip).md",
+    "Fellonhall.md",
+    "Notes 1.md",
     "Schamharal.md",
+    "Uthret.md",
     "Ajhum.md",
     "Emorio Kaza.md"
   ]
