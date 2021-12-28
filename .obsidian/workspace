@@ -6,11 +6,23 @@
       {
         "id": "8a4dfe423ca7a883",
         "type": "leaf",
-        "dimension": 57.81818181818181,
+        "dimension": 28.909090909090907,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Kleine Inseln (name wip).md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "93c1c53f6d706625",
+        "type": "leaf",
+        "dimension": 28.909090909090907,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source"
           }
         }
@@ -78,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kleine Inseln (name wip).md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,8 +108,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8a4dfe423ca7a883",
+  "active": "93c1c53f6d706625",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Kleine Inseln (name wip).md",
     "Fellonhall.md",
     "Notes 1.md",
