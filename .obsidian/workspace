@@ -4,23 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "8a4dfe423ca7a883",
+        "id": "63d08c73e7120530",
         "type": "leaf",
-        "dimension": 39.04545454545455,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Emorio Kaza.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "cb5ea4177b9cdc49",
-        "type": "leaf",
-        "dimension": 60.95454545454545,
-        "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -78,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Emorio Kaza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +82,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8a4dfe423ca7a883",
+  "active": "63d08c73e7120530",
   "lastOpenFiles": [
     "Emorio Kaza.md",
     "Kleine Inseln (name wip).md",
