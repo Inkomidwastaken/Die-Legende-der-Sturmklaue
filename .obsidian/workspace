@@ -4,9 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "6149b39723840739",
+        "id": "8a4dfe423ca7a883",
         "type": "leaf",
-        "dimension": 48.50877192982456,
+        "dimension": 39.04545454545455,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,7 +18,7 @@
       {
         "id": "cb5ea4177b9cdc49",
         "type": "leaf",
-        "dimension": 51.491228070175445,
+        "dimension": 60.95454545454545,
         "state": {
           "type": "graph",
           "state": {}
@@ -96,15 +96,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6149b39723840739",
+  "active": "8a4dfe423ca7a883",
   "lastOpenFiles": [
     "Emorio Kaza.md",
-    "Fellonhall.md",
     "Kleine Inseln (name wip).md",
     "conflict-files-obsidian-git.md",
+    "Fellonhall.md",
     "Notes 1.md",
-    "Ajhum.md",
     "Schamharal.md",
-    "Uthret.md"
+    "Uthret.md",
+    "Ajhum.md"
   ]
 }
