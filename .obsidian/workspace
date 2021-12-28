@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "b98d1c4f61138502",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a4dfe423ca7a883",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes 1.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "cb5ea4177b9cdc49",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "190b66e199d83ade",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1d7f69b102830b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4edd77fe9e40ba51",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "04dd809215e84626",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "83b7000956708d4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "91ca4029ea52a090",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "064324facdd73d8d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cb5ea4177b9cdc49",
+  "lastOpenFiles": [
+    "Fellonhall.md",
+    "Uthret.md",
+    "Notes 1.md",
+    "Kleine Inseln (name wip).md",
+    "Schamharal.md",
+    "Ajhum.md",
+    "Emorio Kaza.md"
+  ]
+}
