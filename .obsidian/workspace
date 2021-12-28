@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kleine Inseln (name wip).md",
+            "file": "Emorio Kaza.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kleine Inseln (name wip).md",
+                "file": "Emorio Kaza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,12 +98,12 @@
   },
   "active": "8a4dfe423ca7a883",
   "lastOpenFiles": [
+    "Emorio Kaza.md",
     "Kleine Inseln (name wip).md",
     "Fellonhall.md",
     "Notes 1.md",
     "Schamharal.md",
     "Uthret.md",
-    "Ajhum.md",
-    "Emorio Kaza.md"
+    "Ajhum.md"
   ]
 }
