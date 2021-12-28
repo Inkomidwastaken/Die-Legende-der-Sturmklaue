@@ -6,7 +6,7 @@
       {
         "id": "8a4dfe423ca7a883",
         "type": "leaf",
-        "dimension": 12.76083467094703,
+        "dimension": 39.04545454545455,
         "state": {
           "type": "markdown",
           "state": {
@@ -16,21 +16,9 @@
         }
       },
       {
-        "id": "40a36ac06573391f",
-        "type": "leaf",
-        "dimension": 12.76083467094703,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "cb5ea4177b9cdc49",
         "type": "leaf",
-        "dimension": 74.47833065810595,
+        "dimension": 60.95454545454545,
         "state": {
           "type": "graph",
           "state": {}
@@ -90,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Kleine Inseln (name wip).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,10 +96,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "40a36ac06573391f",
+  "active": "8a4dfe423ca7a883",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Kleine Inseln (name wip).md",
+    "conflict-files-obsidian-git.md",
     "Fellonhall.md",
     "Notes 1.md",
     "Emorio Kaza.md",
