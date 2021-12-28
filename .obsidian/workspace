@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fellonhall.md",
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellonhall.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,8 +98,8 @@
   },
   "active": "6149b39723840739",
   "lastOpenFiles": [
-    "Fellonhall.md",
     "conflict-files-obsidian-git.md",
+    "Fellonhall.md",
     "Notes 1.md",
     "Emorio Kaza.md",
     "Ajhum.md",
