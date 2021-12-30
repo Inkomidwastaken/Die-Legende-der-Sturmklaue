@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fellonhall.md",
+            "file": "Die Sturmklaue.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "30efcf94911ab0c8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes 2 - 30.12.2021.md",
             "mode": "source"
           }
         }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellonhall.md",
+                "file": "Notes 2 - 30.12.2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "63d08c73e7120530",
+  "active": "30efcf94911ab0c8",
   "lastOpenFiles": [
-    "Fellonhall.md",
-    "Emorio Kaza.md",
-    "Kleine Inseln (name wip).md",
-    "conflict-files-obsidian-git.md",
-    "Notes 1.md",
+    "Notes 2 - 30.12.2021.md",
+    "Die Sturmklaue.md",
     "Schamharal.md",
-    "Uthret.md",
-    "Ajhum.md"
+    "Fellonhall.md",
+    "Kleine Inseln (name wip).md",
+    "Notes 1 - 22.12.2021.md",
+    "Ajhum.md",
+    "Emorio Kaza.md",
+    "conflict-files-obsidian-git.md",
+    "Uthret.md"
   ]
 }
