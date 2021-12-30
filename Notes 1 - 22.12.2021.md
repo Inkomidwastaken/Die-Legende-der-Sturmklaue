@@ -46,7 +46,7 @@ Worldbuilding:
 - Ostamark. Semi Republik (Olegarchie). Adlige wählen Herrscher.
 - hauptstadt destend
 - alle adligen sind Halblinge
-- Köngreich mit eenigstemm rassismus
+- Köngreich mit wenigstemm rassismus
 - stark in Landwirtschaft
 - Lord kanzler Ingund Haywart
 
