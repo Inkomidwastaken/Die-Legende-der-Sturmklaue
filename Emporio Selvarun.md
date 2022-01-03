@@ -71,6 +71,9 @@ Anmerkungen und Fragen:
 	- wie sicher ist es auf der anderen seite des Portals
 	- gibt es dort Politische mächte (zb Summercort) die mit Fellonhall in Verbindung stehen
 	- Würden Schulen tripps in die Feywild unternehmen
+
+- Sham'harall:
+	- Was ist die Amtssprache in Sham'harall. Offiziell gibt es in 5e keine Sprache "Tabaxi". Sprechen die dann alle Leonin.
 	
 - Professor Lothris Grepeiros:
 	- muss eventuel noch auf Geminis Geschichte angepasst werden
@@ -81,9 +84,9 @@ Anmerkungen und Fragen:
 		- Lotris ist ei elf, der in Ostermark ein zweites Fellohall erschaffen will. um ein ewiges portal zur Feywild zu öffnen, benötigt er endlos zirkulierende magie. (siehe sorlock build von gemini. eventuell Feywild selbst als Patron für warlockkräfte) !Stark von Geminis geschichte abhängig!
 		- Lothris findet die elfen leben zu sehr in ihrer eigenen wellt, und will deshalb sein eigenes elfenreich gründen. Seine beweggründe ähneln damit auf mancher weise denen von emporio
 
-- 
+
 	
-	Charakter:
+	Charaktereigenschaften:
 	- Emporio hält nicht viel von nationalismus, da er sich schon immer für die welt auserhalb fellonhals interessiert hat
 		-  er ist auf seine eigene art eingebildet. stellt sich über leute mit nationalistischem/rassistischem denken, auc wenn er vieleicht doch seine vorurteile hat
 	- Will erstmal nicht nach fellonhal zurück, da es nicht von interesse für in dort gibt ( auser seine eventuelle sichereit)
