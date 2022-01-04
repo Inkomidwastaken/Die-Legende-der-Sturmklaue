@@ -9,6 +9,7 @@ Highelf
 Wizzard / Scribe
 
 Intersssiert sich für drachen
+magkuchen (zb karottenkuchen)
 
 Kommt aus Fellonhall
 
