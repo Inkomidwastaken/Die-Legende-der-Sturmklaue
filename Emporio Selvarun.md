@@ -15,6 +15,13 @@ Kommt aus Fellonhall
 
 Jugendname: Kazaa
 
+Aufgaben auf der [[Sturmklaue]]:
+- Quatiermeister (eschuhlt von [[Vandock]])
+
+Item Wishlist:
+- Boots of bootlegging
+- Summonable Gartentisch + Klapstuhl
+
 Fellonhall:
 - geboren in fellonhall
 - elvischer jugendname kazaa oder kurz kaz
@@ -28,6 +35,7 @@ Fellonhall:
 
 reise:
 - emporio beginnt die reise Reise fellonhall nach Ostermark
+- Ballavit. Leonin. Arbeitet auf dem Schiff das von Fellonhall nac Am'jarr. Freundet sich mit Emporio an. hilft ihm beim Verkauf seiner Glasdrachen.
 - hält in Am'jarr und verkauft dort seine letzten glasdrachen
 - hält in Solheim
 - reist von dort nach Destend in die Akademie

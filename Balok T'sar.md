@@ -1,5 +1,5 @@
 ---
-aliases: Big B
+aliases: Big D. row
 tags: PC
 ---
 
@@ -13,7 +13,8 @@ Merkmale:
 - Rüstung und Glaive
 
 Geschichte:
-- 
+- hat viel zeit in [[Freihafen]] verbracht
+- auf der [[Sturmklaue]] anzuhäuern war nicht seine erste Wahl
 
 
 Fähigkeiten:

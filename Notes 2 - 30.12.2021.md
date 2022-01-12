@@ -18,6 +18,8 @@ In der Miene brännen frische Fackeln
 
 Kobolde die von einem mysteriösen "Meister" angeführt werden sind in er Miene
 
+Jhon Hannes wird von uns verknechtet
+
 Wir töten die Kobolde.
 
 Wir hören jemanden in einer unbekannten Sprache singen

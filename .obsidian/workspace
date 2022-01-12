@@ -4,15 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "14566e351981d7c2",
+        "id": "4298e90f9e1d1e3a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Emporio Selvarun.md",
+            "file": "Notes 3 - 12.01.2022.md",
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "3ef7ba150155a7f5",
+        "type": "split",
+        "children": [
+          {
+            "id": "14566e351981d7c2",
+            "type": "leaf",
+            "dimension": 41.92139737991266,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Am'jarr.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "0586c84b0cedb4c3",
+            "type": "leaf",
+            "dimension": 58.07860262008734,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sturmklaue.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -68,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Emporio Selvarun.md",
+                "file": "Notes 3 - 12.01.2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "14566e351981d7c2",
+  "active": "4298e90f9e1d1e3a",
   "lastOpenFiles": [
+    "Notes 3 - 12.01.2022.md",
+    "Sturmklaue.md",
+    "Am'jarr.md",
     "Emporio Selvarun.md",
     "Map - Uthrend.png",
-    "Notes 1 - 22.12.2021.md",
     "Balok T'sar.md",
-    "John Nelson.md",
-    "Gemini.md",
-    "Ajhum.md",
-    "Arcy.md",
     "Fellonhall.md",
-    "Ajay Mollekorn.md"
+    "Jon Hannes.md",
+    "Notes 2 - 30.12.2021.md",
+    "Notes 1 - 22.12.2021.md"
   ]
 }
