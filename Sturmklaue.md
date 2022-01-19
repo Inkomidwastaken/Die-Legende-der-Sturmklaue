@@ -27,18 +27,25 @@ bronzener greif
 - 10x 50 Fuß Seil
 - 3x Kupferbälle mit Löchern. z.B für brännender Flüssigkeit. Für Katapult
 
-- 100 Gold
+- 40 Gold
 
 - 25 Holzbrätter
 - Kiste mit Nägel
 - 2,5 Lorenladungen Mysteriöses Erz
 - Kochuntensilien
 - Werkzeug (Hämmer, Segen, etc.)
+- Hauptsegel
+- Hauptsegel(Kaputt)
+
+- Kochuntensilien
+- Alchemist supplies
+
+-   Fass Fisch
+-   2 Fässer Grog 50L  
+    
+-   1 Flasche Wüstenschnapps
 
 Benötigt
-- Proviant
-- Wasser
-- Ersatzsegel
-- Segelreperatur
+
 
 - Öl
