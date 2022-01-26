@@ -20,4 +20,4 @@
 		- Schriftrolle: Summon lesser Demon
 
 - Wir melden uns für den Gruppenkampf im Kolloseum an
-- 
+- Zurück am Schiff fehlt Arcy

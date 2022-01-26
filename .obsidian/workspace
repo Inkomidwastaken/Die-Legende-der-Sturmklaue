@@ -9,6 +9,17 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "Notes 4 - 26.01.2022.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "0586c84b0cedb4c3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "Sturmklaue.md",
             "mode": "source"
           }
@@ -52,7 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207
+    "width": 300
   },
   "right": {
     "id": "83b7000956708d4b",
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sturmklaue.md",
+                "file": "Notes 4 - 26.01.2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +99,15 @@
   },
   "active": "14566e351981d7c2",
   "lastOpenFiles": [
-    "Sturmklaue.md",
-    "Notes 3 - 19.01.2022.md",
-    "Notes 2 - 12.01.2022.md",
-    "Notes 1 - 30.12.2021.md",
+    "Notes 4 - 26.01.2022.md",
     "Notes 0 - 22.12.2021.md",
-    "Schamharal.md",
-    "Jon Hannes.md",
-    "Kleine Inseln (name wip).md",
-    "John Nelson.md",
-    "Emporio Selvarun.md"
+    "Notes 3 - 19.01.2022.md",
+    "Sturmklaue.md",
+    "Am'jarr.md",
+    "Notes 3 - 12.01.2022.md",
+    "Emporio Selvarun.md",
+    "Map - Uthrend.png",
+    "Balok T'sar.md",
+    "Fellonhall.md"
   ]
 }
