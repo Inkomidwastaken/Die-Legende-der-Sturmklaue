@@ -7,9 +7,10 @@
         "id": "14566e351981d7c2",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Map - Uthrend.png"
+            "file": "Notes 3 - 19.01.2022.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Map - Uthrend.png",
+                "file": "Notes 3 - 19.01.2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,13 +88,13 @@
   },
   "active": "14566e351981d7c2",
   "lastOpenFiles": [
-    "Map - Uthrend.png",
+    "Notes 3 - 19.01.2022.md",
     "Balok T'sar.md",
+    "Map - Uthrend.png",
     "Gemini.md",
     "Jon Hannes.md",
     "Kleine Inseln (name wip).md",
     "Sturmklaue.md",
-    "Notes 3 - 19.01.2022.md",
     "Notes 2 - 12.01.2022.md",
     "Notes 1 - 30.12.2021.md",
     "Notes 0 - 22.12.2021.md"
