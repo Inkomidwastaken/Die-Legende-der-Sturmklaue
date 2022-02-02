@@ -23,3 +23,5 @@
 - Tiefling ist der Vorstand der Kavannerie. Su Annam
 - Geminis Familiar sagt den anderen was sache ist
 - Ajay wird von Tiefling durch ein verstecktes Portal geführt
+- Bixbos Sklaven werden zweitausend meter unter der erde gehalten
+- 
