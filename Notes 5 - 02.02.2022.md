@@ -1,0 +1,3 @@
+- Emporio und Gemin gehen öl Kaufen
+- John und Ajay kommen dazu. wollen was für Feuerpfeile
+- 
