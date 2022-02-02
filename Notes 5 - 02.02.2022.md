@@ -8,6 +8,8 @@
 	- Archy (fary) (w)
 	- Ferdinant (gnoll) (m)
 	- Melissa mayean (w)
+	- luzara -mensch Weiblich
+	- Teclis
 
 - Liste: Sonderexporte für Tunier
 	- Waldelfe (w)
@@ -23,5 +25,21 @@
 - Tiefling ist der Vorstand der Kavannerie. Su Annam
 - Geminis Familiar sagt den anderen was sache ist
 - Ajay wird von Tiefling durch ein verstecktes Portal geführt
-- Bixbos Sklaven werden zweitausend meter unter der erde gehalten
+- Bixbos Sklaven werden zweitausend Fuß unter der erde gehalten
+- Ajay wir dabei erwischt wie er einen dolch an Arcy geben will. wird rausgeworfen
 - 
+- Ellaria, das Mädchen das Kuchen verkauft, fragt und ob wir Arcy kennen
+- Arcy wollte ihr helfen ihr Eltern aus der Sklavarei zu befreien
+	- ihr Vater, Nachname von Fallonhall (das Herscherhaus von Fallonhall)
+	- Fayrith - Herscher Fellonhalls
+	- Bruder - Teclis
+	- nurnoch 2 Mitglieder des Fellonhall Haus. Herscher und Bruder
+	- Bruder wurde wegen Affäre verbannt. vor ungefär 50 Jahren
+	- ihre Mutter luzara
+
+- Ellaria gibt Emporio Zeichnung für Handzeichen (Schlechte Zeichnung)
+
+- Vic trifft sich mit Ashmir
+- Ashmir erzählz Kurjuw hat sie am Altar stehen lassen
+- Ashmir bietet an Informationen über Sklaven rauszufinden und einfache Sklaven eventuel zu befreien
+- Auch über Bixbo hat sie einen gewissen Einfluss

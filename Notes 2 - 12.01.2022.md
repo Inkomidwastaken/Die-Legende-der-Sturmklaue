@@ -59,7 +59,8 @@ Vandock feierts nicht so
 
 Kurjuw rät uns uns von Sultan Kazzim vern zu halten. Trickt viele Leute in die Sklavarei
 
-Am Grand Bazzar sollen wir Ashmir um rat fragen. junge Tabaxi. nicht veraten, dass Kurjuw uns geschikt hat. 
+Am Grand Bazzar sollen wir Ashmir um rat fragen. junge Tabaxi. 
+Niemand anderem sollen wir sagen, dass kurju in der Stadt ist
 
 Vandock bezahlt Wachen am Hafen. Alle tragen Rot
 
