@@ -2,3 +2,4 @@
 - John und Ajay kommen dazu. wollen was für Feuerpfeile
 - Vic und Balock suchen nach Arcy auf dem Sklavenmarkt
 - Emporio gibt das öl an Ajay
+- Die gang trifft sich und sucht in der Cavaranery nach Arcy

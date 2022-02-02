@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "0586c84b0cedb4c3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sturmklaue.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -52,7 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207
+    "width": 300
   },
   "right": {
     "id": "83b7000956708d4b",
@@ -89,14 +100,14 @@
   "active": "14566e351981d7c2",
   "lastOpenFiles": [
     "Notes 5 - 02.02.2022.md",
-    "Sturmklaue.md",
-    "Schamharal.md",
     "Notes 4 - 26.01.2022.md",
+    "Notes 0 - 22.12.2021.md",
     "Notes 3 - 19.01.2022.md",
-    "Balok T'sar.md",
+    "Sturmklaue.md",
+    "Am'jarr.md",
+    "Notes 3 - 12.01.2022.md",
+    "Emporio Selvarun.md",
     "Map - Uthrend.png",
-    "Gemini.md",
-    "Jon Hannes.md",
-    "Kleine Inseln (name wip).md"
+    "Balok T'sar.md"
   ]
 }
