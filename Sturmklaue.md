@@ -27,7 +27,7 @@ bronzener greif
 - 10x 50 Fuß Seil
 - 3x Kupferbälle mit Löchern. z.B für brännender Flüssigkeit. Für Katapult
 
-- 40 Gold
+- 10 Gold
 
 - 25 Holzbrätter
 - Kiste mit Nägel
@@ -47,5 +47,4 @@ bronzener greif
 
 Benötigt
 
-
-- Öl
+- 3x Disguise Kits
