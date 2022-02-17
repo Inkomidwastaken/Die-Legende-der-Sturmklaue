@@ -13,3 +13,4 @@ tags: NPC
 	- kein linkes auge mehr, wir drübergerissen zb Klauen
 	- am hinterkopf, wie spitzer gegenstand
  
+ Vandock hatte gemeinsame eschichte mit [[Captain Jones]]. Redet aber nicht darüber

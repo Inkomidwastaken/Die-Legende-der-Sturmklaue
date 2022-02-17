@@ -20,5 +20,8 @@ Geschichte:
 Fähigkeiten:
 - besondere fähigkeiten??
 
-Anmerkungen:
-- scheint sehr antie-Elfen indoktriniert zu sein. -> lässt sicheinreden was er denken soll
+Träume:
+- träumt von sich im gefängniss. mysteriöse gestalt schaut ihn an. wacht mit blutenden Augen auf
+
+Emporios Anmerkungen:
+- scheint sehr antie-Fellonhall indoktriniert zu sein. -> lässt sich einreden was er denken soll
