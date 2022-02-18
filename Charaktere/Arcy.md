@@ -10,3 +10,5 @@ tags: NPC
 
 Spells
 - Cure Wounds
+
+hat einen crush auf [[Joyboy Jack]]

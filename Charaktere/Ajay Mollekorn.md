@@ -14,4 +14,7 @@ Merkmale:
 Geschichte:
 Fähigkeiten:
 
+Träume:
+- träumt von licht unterwasser
+
 Anmerkungen:
