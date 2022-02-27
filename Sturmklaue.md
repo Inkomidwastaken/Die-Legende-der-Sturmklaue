@@ -9,6 +9,7 @@ Navigatorin: [[Arcy]]
 
 Andere Mitglieder:
 - [[Jon Hannes]] aka. JoHa
+- [[Ferdinant Knurr]] aka. der gnolle Ferdinant
 Spieler:
 - [[Emporio Selvarun]], quatermaster
 - [[Gemini]]
