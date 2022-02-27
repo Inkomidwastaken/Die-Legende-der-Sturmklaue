@@ -19,3 +19,4 @@
 - Vic und Balock fragen kashmir nach stand der versprochenen Hilfeleistungen
 - danach geheht balock in die Arena und quatscht mit dem Arenaleitereiter Jeff Bullman
 - unterschreibt gladiatorenvertrag, dafür dass das leben von arcys bruder gerettet wird
+- 

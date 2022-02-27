@@ -3,3 +3,4 @@ Hier sind Einträge, die noch erstelt werden müssen, oder Informationen, die es
 - Ring des [[unheimlichen Leonin]].
 - Karte von [[Am'jarr]]
 - Ist [[Sultan Kazzim]] Leiter der Handelsgilde der Stadt oder ganz Schamharal
+- Name von [[Joyboy Jack]]sCrew und Schiff

@@ -16,5 +16,6 @@ Fähigkeiten:
 
 Träume:
 - träumt von licht unterwasser
+- weitere unterwasser Vision beim [[Am'jarr#Mausoleum#Zerstörter Schrein| zerstörtem Schrein]] im Mausoleum von Am'jarr
 
 Anmerkungen:
