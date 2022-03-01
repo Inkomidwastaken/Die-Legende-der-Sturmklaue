@@ -23,7 +23,7 @@ Worldbuilding:
 - dafür müssen drachen die sterblichen beschützen
 - => Drachen sind keine assis
 - Drachenkaiser entsteht im Chaos: [[Anarion]]
-- Drachenkaiser greift sphäre an. bricht ein. greift planeten an planet: [[Uthret]]
+- Drachenkaiser greift sphäre an. bricht ein. greift planeten an planet: [[Uthrend]]
 - Uthret hat zwei Monde
 - primus um erde. sekunda um primus
 - Anarion hat sekunda auf Planet geworfen
