@@ -16,6 +16,9 @@ Geschichte:
 - hat viel zeit in [[Freihafen]] verbracht
 - auf der [[Sturmklaue]] anzuhäuern war nicht seine erste Wahl
 
+- hat in Freihafen gearbeitet. "Waren" Handel. Schmuggel
+- 
+
 
 Fähigkeiten:
 - besondere fähigkeiten??

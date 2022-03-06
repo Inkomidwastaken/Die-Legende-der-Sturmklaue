@@ -12,6 +12,9 @@ Merkmale:
 - wirft immer etwas von seinem Essen ins Wasser
 
 Geschichte:
+- hat Familie in Freihafen
+- 
+
 Fähigkeiten:
 
 Träume:
