@@ -54,7 +54,7 @@ person ist das erste auge von Baelstrom. Lordadmiral Baelstrom
 
 Befreite Sklaven verlassen das Schiff
 
-Fellonhalls gehen zum goldenen Schwan
+Fellonhalls gehen zum goldenen Schwan. Tecles sagt wir sollenih nin ein paar tagen besuchen.
 
 Vic schickt uns zu Clint
 
@@ -65,3 +65,6 @@ Laut Goldzahn ist der Stein ein Seltener Edelstein aus Sekunda. Kann ein Luftsch
 Der "Count" hat den stein aus pentagrad rausgeschmuggeld. hohes tier in Freihafen (Admiral)
 
 Valastra. Besitzerein von Waisenhaus Valastras Zuflucht
+
+Soffhändlerin Rossita kauft 3 Rollen Stoff. 300 gp pro rolle. 5 Rollen auf einer Palettte
+

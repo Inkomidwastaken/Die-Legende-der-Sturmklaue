@@ -2,50 +2,30 @@
 tags: ship
 ---
 
-# Crew:
-Kapitän: [[Vandock]]
-Erster Mat: [[Kurjuw]]
-Navigatorin: [[Arcy]]
+# Die Sturmklaue
+Die Sturmklaue ist ein Piratenschiff unter der Leitung von Kapitän [[Vandock]].
 
-Andere Mitglieder:
-- [[Jon Hannes]] aka. JoHa
-- [[Ferdinant Knurr]] aka. der gnolle Ferdinant
-Spieler:
-- [[Emporio Selvarun]], quatermaster
-- [[Gemini]]
-- [[John Nelson]], Koch
-- [[Balok T'sar]]
-- [[Victor Kalvar]] aka. Vic
-- [[Ajay Mollekorn]] aka. little breeze
+## Crew:
+[[Vandock]], Kapitän
+[[Kurjuw]], Erster Mat
+[[Arcy]], Navigatorin
+
+[[Ajay Mollekorn]],  1. Gunner
+[[Balok T'sar]], 2. Gunner, Entercommander
+[[Emporio Selvarun]], Quatiermeister
+[[Gemini]], Schiffsarzt (lehrling)
+[[John Nelson]], Koch, Schiffsbetriebsmeister (lehrling)
+[[Victor Kalvar]], Steuermann (lehrling)
+
+[[Jon Hannes]]
+[[Ferdinant Knurr]]
 
 
-# Merkmale:
+## Merkmale und Aussehen:
+### Flagge:
+![[Sturmklaue_Flagge.png|200]]
 gallionsfigur:
 bronzener greif
 
 ## Lagerraum:
-- 10 Harpunen für Ballisten
-- 10x 50 Fuß Seil
-- 3x Kupferbälle mit Löchern. z.B für brännender Flüssigkeit. Für Katapult
-
-- 10 Gold
-
-- 25 Holzbrätter
-- Kiste mit Nägel
-- 2,5 Lorenladungen Mysteriöses Erz
-- Kochuntensilien
-- Werkzeug (Hämmer, Segen, etc.)
-- Hauptsegel
-- Hauptsegel(Kaputt)
-
-- Kochuntensilien
-- Alchemist supplies
-
--   Fass Fisch
--   2 Fässer Grog 50L  
-    
--   1 Flasche Wüstenschnapps
-
-Benötigt
-
-- 3x Disguise Kits
+siehe Roll20 *"Schiffsladung"*

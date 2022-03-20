@@ -9,6 +9,7 @@ Human (Variant)
 Warlock
 
 Merkmale:
+- Erdnussallergire
 - wirft immer etwas von seinem Essen ins Wasser
 
 Geschichte:
