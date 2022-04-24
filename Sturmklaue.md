@@ -6,19 +6,22 @@ tags: ship
 Die Sturmklaue ist ein Piratenschiff unter der Leitung von Kapitän [[Vandock]].
 
 ## Crew:
-[[Vandock]], Kapitän
-[[Kurjuw]], Erster Mat
-[[Arcy]], Navigatorin
 
-[[Ajay Mollekorn]],  1. Gunner
-[[Balok T'sar]], 2. Gunner, Entercommander
+[[Ajay Mollekorn]],  Navigator, Steuermann, erster Mate
+[[Balok T'sar]], Kapitän, Entercommander
 [[Emporio Selvarun]], Quatiermeister
-[[Gemini]], Schiffsarzt (lehrling)
+[[Gemini]], Schiffsarzt 
 [[John Nelson]], Koch, Schiffsbetriebsmeister (lehrling)
-[[Victor Kalvar]], Steuermann (lehrling)
+[[Victor Kalvar]], Gunner, Steuermann (lehrling)
 
 [[Jon Hannes]]
 [[Ferdinant Knurr]]
+
+### Ehemalige:
+† [[Vandock]], Kapitän
+† [[Kurjuw]], Erster Mat
+† [[Arcy]], Navigatorin
+
 
 
 ## Merkmale und Aussehen:
