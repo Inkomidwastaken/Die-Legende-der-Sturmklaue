@@ -26,7 +26,7 @@ Die Sturmklaue ist ein Piratenschiff unter der Leitung von Kapitän [[Vandock]].
 
 ## Merkmale und Aussehen:
 ### Flagge:
-![[Sturmklaue_Flagge.png|200]]
+![[Sturmklaue-Flagge2.png|300]]
 gallionsfigur:
 bronzener greif
 

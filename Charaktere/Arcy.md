@@ -12,3 +12,5 @@ Spells
 - Cure Wounds
 
 hat einen crush auf [[Joyboy Jack]]
+
+Bruder namens Firo
