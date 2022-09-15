@@ -132,7 +132,7 @@ Geschichte beginnd 450 nfs. (nach fall von sekunda):
 bekannte Piraten:
 - glammourboy jack. pfau arackogra. bekannt für sein schiff, dass ein fahrendes freudenhaus ist. casio, puff, etc
 - gentleman jankins. goliath. gentleman, da ersehr ehrenhaft kämpft. ehemals wahr gentleman ein scherznahme weil er als weichei gilt. ist aber sehr krasser tüb aber halt nett.
-- "lord" grasskahn. hat schwimmende insel. dort lebt einer der größten goblinstämme. insel ist überbevölkert und benutzt goblins als munition
+- "lord" racktack der schrecken. hat schwimmende insel. dort lebt einer der größten goblinstämme. insel ist überbevölkert und benutzt goblins als munition
 
 3 level an bewaffnung:
 - mittelalterlich
