@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "b98d1c4f61138502",
+    "type": "split",
+    "children": [
+      {
+        "id": "8893d3e28d778b8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ee003ff91923bba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Notes 0 - 22.12.2021.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5acb910740a3b12e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes 21 - 20.102022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "179bf1b0bb53c859",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes 22 - 27.10.2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "190b66e199d83ade",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1d7f69b102830b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4edd77fe9e40ba51",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "04dd809215e84626",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "83b7000956708d4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "91ca4029ea52a090",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "064324facdd73d8d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes 22 - 27.10.2022.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "179bf1b0bb53c859",
+  "lastOpenFiles": [
+    "Notes 21 - 20.102022.md",
+    "Notes 22 - 27.10.2022.md",
+    "Notes/Notes 0 - 22.12.2021.md",
+    "Schamharal.md",
+    "Ajhum.md",
+    "Am'jarr.md",
+    "Mondblut.md",
+    "Charaktere/unheimlichen Leonin.md",
+    "To-do.md",
+    "unoffizielle Duergar Mine.md"
+  ]
+}
