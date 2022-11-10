@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8893d3e28d778b8f",
+        "id": "7cc22591b3e0fcd9",
         "type": "tabs",
         "children": [
           {
-            "id": "1ee003ff91923bba",
+            "id": "b73e656376b17bb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Notes 0 - 22.12.2021.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5acb910740a3b12e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes 21 - 20.102022.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "179bf1b0bb53c859",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes 22 - 27.10.2022.md",
+                "file": "Notes/Notes 23 - 10.11.2022.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "83b7000956708d4b",
@@ -102,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes 22 - 27.10.2022.md",
+                "file": "Notes/Notes 23 - 10.11.2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,19 +92,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
-  "active": "179bf1b0bb53c859",
+  "active": "b73e656376b17bb9",
   "lastOpenFiles": [
-    "Notes 21 - 20.102022.md",
-    "Notes 22 - 27.10.2022.md",
-    "Notes/Notes 0 - 22.12.2021.md",
-    "Schamharal.md",
-    "Ajhum.md",
-    "Am'jarr.md",
+    "Notes/Notes 23 - 10.11.2022.md",
+    "Sturmklaue.md",
     "Mondblut.md",
-    "Charaktere/unheimlichen Leonin.md",
-    "To-do.md",
-    "unoffizielle Duergar Mine.md"
+    "Orte/Am'jarr.md",
+    "Notes/Notes 22 - 27.10.2022.md",
+    "Notes/Notes 21 - 20.102022.md",
+    "Notes/Notes 20 - 15.09.2022.md",
+    "Notes/Notes 0 - 22.12.2021.md",
+    "Notes/Notes 17 - 17.07.2022.md",
+    "Orte/Schamharal.md"
   ]
 }

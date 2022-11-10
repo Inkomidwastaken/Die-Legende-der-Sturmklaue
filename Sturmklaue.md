@@ -7,15 +7,26 @@ Die Sturmklaue ist ein Piratenschiff unter der Leitung von Kapitän [[Vandock]].
 
 ## Crew:
 
-[[Ajay Mollekorn]],  Navigator, Steuermann, erster Mate
+[[Ajay Mollekorn]],  Navigator, Steuermann, erster Maat 
 [[Balok T'sar]], Kapitän, Entercommander
 [[Emporio Selvarun]], Quatiermeister
-[[Gemini]], Schiffsarzt 
+
 [[John Nelson]], Koch, Schiffsbetriebsmeister (lehrling)
 [[Victor Kalvar]], Gunner, Steuermann (lehrling)
 
-[[Jon Hannes]]
-[[Ferdinant Knurr]]
+[[Jon Hannes]] der Kobold
+[[Ferdinant Knurr]] der Gnoll
+Miranda
+Olaf der Söldner
+Vashraz der Invalide
+
+
+### Mitreisende:
+Helmut der Greis  s
+Luthrosa die Wallwächterin
+
+### Inaktive:
+[[Gemini]], Schiffsarzt - ins Feywild zurückgekehrt
 
 ### Ehemalige:
 † [[Vandock]], Kapitän
