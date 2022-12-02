@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "7cc22591b3e0fcd9",
+        "id": "07166308e3b0ccf9",
         "type": "tabs",
         "children": [
           {
-            "id": "962ab9345fde97a3",
+            "id": "8a074da000428eee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Charaktere/Ajay Mollekorn.md",
+                "file": "Notes/Notes 25 - 01.12.2022.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "83ed6d86e906e688",
+            "id": "6f0303b3a2f46ddb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Notes 25 - 01.12.2022.md",
+                "file": "Wunschliste.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "83b7000956708d4b",
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Notes 25 - 01.12.2022.md",
+                "file": "Wunschliste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,19 +105,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
-  "active": "83ed6d86e906e688",
+  "active": "6f0303b3a2f46ddb",
   "lastOpenFiles": [
-    "Notes/Notes 24 - 17.11.2022.md",
-    "Charaktere/Ajay Mollekorn.md",
-    "Sturmklaue.md",
     "Notes/Notes 25 - 01.12.2022.md",
-    "Notes/Notes 23 - 10.11.2022.md",
-    "Notes/Notes 22 - 27.10.2022.md",
-    "Mondblut.md",
-    "Orte/Am'jarr.md",
-    "Notes/Notes 21 - 20.102022.md",
-    "Notes/Notes 20 - 15.09.2022.md"
+    "pages/contents.md",
+    "Notes/Notes 20 - 15.09.2022.md",
+    "Charaktere/Balok T'sar.md",
+    "Amanda.md",
+    "Fellonhall.md",
+    "Am'jarr.md",
+    "Ajhum.md",
+    "pages/Notes 7 - 16%2F02.md",
+    "pages/Sturmklaue-Flagge2.png%7C300.md"
   ]
 }
