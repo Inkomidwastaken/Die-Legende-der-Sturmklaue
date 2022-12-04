@@ -39,48 +39,13 @@ strong:
 - Robe of Stars
 
 
-## Herstellen:
-- Spyglass
-- Magnifying Glass
-- Glas Füller
 
 
-- Sorcerous Spyglass
-- Crystal Ball
-- Crystal Ball (Legendary Version)
-- Crystal Blade
-- Gem of Seeing
-
-- illusion lens( gegens lich halten erzeugt eine illusion (wie mit minor illusion). Bild ist immer das gleiche)
 
 
-- Glasses of Magic detection
-- Glasses of Seeing Invisibility
-- Glasses of Seeing
-- Sunglasses
-- Moonglasses (Darkvision)
-- Selvarun Glass-Lock 
-- Selvarun Glass-Sword (what does it do?)
-- Selvarun Glass-Armor? (see cast-on-armor)
-- Selvarun Glass-Eye (what does it do?)
-- shattering arrow
-- invisible arrow
-- Staff of Defense
-- invisible dagger
-- dagger of invisibility
-- Brenessel (dagger / shortsword / rapier)
-- Magnifying Glass of Magnifying
 
- - Selvarun Spiegel (what does it do?)(Mirror Image?)(stone of sending mit Video)
- - transparency orb (pass without trace)
- - Prism-Wand:
-	 - Color Spray
-	 - Chromatic Orb
-	 - Hypnotic Pattern
-- Faerie Fire in a bottle
-- ?Moonbeam?
-- ?Spiritual Weapon?
-- ?Daylight?
+
+
 
 # Spells
 - jeder ritual spell
@@ -89,42 +54,8 @@ strong:
 - Augury(mit drachen knochen)
 - Draconic Transformation
 - Illusory Dragon
-## Glas/Selvarun:
-- mage armor (Staff of Defense)
-- shield (Staff of Defense)
-- Tiny Servant (statuen beleben)
-- Blur
-- Mirror Image
-- shatter
-- invisibility
-- greater invisibility
-- 
-- wall of force
-- Disintegrate
-- 
-- Otiluke's Resilient Sphere
-- fabricate (sondereffect auf glas (instant?))
-- Creation (sondereffect auf glas (instant?))
-- Stone Shape( auf glas)
-- 
-- 
-- Darkvision
-- detect magic
-- see invisibility
-- true seeing
 
-- Enlarge/Reduce (lupe)
-- 
-- Create Homunculus
-- .
-- Stoneskin
-- Flesh to Stone
-- Investiture of Stone
-- 
-- Magic Weapon (schwerter)
 
-- Prismatic Spray
-- Prismatic Wall
 
 ## Utility:
 - continual flame
