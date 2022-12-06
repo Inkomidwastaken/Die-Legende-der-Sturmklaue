@@ -1,3 +1,7 @@
+Ein bisschen Brainstormung zu Items und Spells, die thematisch zu den Selvaruns passen. Muss nicht heißen, dass jeder Selvarun diese Items herstellen und Spells benutzen kann. Warscheinlich eher die wenigsten. Man müsste schon n Main Character sein oder sowas...
+
+**DISCLAIMER: Nichts was hier steht muss umbedingt gebalanced sein**
+
 # Items:
 ## Nichtmagicsche Items:
 - Spyglass
@@ -7,7 +11,7 @@
 ### Offizielle:
 - Sorcerous Spyglass
 - Crystal Ball
-- Crystal Ball (Legendary Version)
+- Crystal Ball of True Seeing
 - Crystal Blade
 - Gem of Seeing
 - [Staff of Defense](https://5e.tools/items.html#staff%20of%20defense_lmop)
@@ -51,41 +55,85 @@
 
 
 # Spells:
-- mage armor (Staff of Defense)
-- shield (Staff of Defense)
-- Tiny Servant (statuen beleben)
-- Blur
-- Mirror Image
-- shatter
-- invisibility
-- greater invisibility
+## von Thematiken:
 
-- wall of force
-- Disintegrate
+Durchsichtig:
+- Invisibility
+- Greater Invisibility
 
+- Unseen Servant 
+
+Brüchig (Prince roupert drop platzt):
+- Shatter
+
+Der Wall™:
+- Wall of Force
+- Disintegrate (zum auflösen)
+
+- Tenser's Floating Disk?
 - Otiluke's Resilient Sphere
+- Globe of Invulnerability
+
+Sehen:
+- Darkvision
+- Detect Magic
+- See Invisibility
+- True Seeing 
+
+- Mirror Image
+- Blur
+
+Skulpturen:
+- Tiny Servant
+- Animate Objects
+
+Herstellen:
 - fabricate (sondereffect auf glas (instant?))
 - Creation (sondereffect auf glas (instant?))
-- Stone Shape( auf glas)
+- Stone Shape (auf glas)
 
-
-- Darkvision
-- detect magic
-- see invisibility
-- true seeing
-
-- Enlarge/Reduce (lupe)
-
-- Create Homunculus
-
+Material:
 - Stoneskin
 - Flesh to Stone
 - Investiture of Stone
 
+Magische Items:
 - Magic Weapon (schwerter)
+## von Offiziellen Items:
+- detect magic (Sorcerous Spyglass) (1)
+- scrying (Crystal Ball) (5)
+- True Seeing (Crystal Ball of True Seeing, Gem of Seeing) (6)
+- mage armor (Staff of Defense) (1)
+- shield (Staff of Defense) (1)
 
-- Prismatic Spray
-- Prismatic Wall
+## von Homebrew Items:
+
+- Minor Illusion (Illusion Marble) (0)
+- Silent Image (Illusion Marble) (1)
+- Major Image (Illusion Marble) (3)
+- Hallucinatory Terrain (Illusion Marble) (4)
+- Programmed Illusion (Illusion Marble) (5)
+
+- Darkvision (Moonglasses) (2)
+- Detect Magic (Glasses of Magic detection) (1)
+- See Invisibility (Glasses of Seeing Invisibility) (2)
+- True Seeing (Glasses of True Seeing) (6)
+
+- Shatter (hattering-Arrow) (2)
+- Invisibility (Invisible Weapon, Weapon of Invisibility) (2)
+- Enlarge/Reduce (Magnifying² Glass) (2)
+
+- Color Spray (Wand of the Prism) (1)
+- Chromatic Orb (Wand of the Prism) (1)
+- Hypnotic Pattern (Wand of the Prism) (3)
+- Light (Wand of the Prism) (0)
+- Wall of Light (Wand of the Prism) (5)
+- Prismatic Spray (Wand of the Prism) (7)
+
+- Faerie Fire (Faerie Fire in a Bottle) (1) (Nicht zu lernen. Muss gesammelt werden)
+
+
+
 # Homebrew Items:
 
 ### Illusion Marble:

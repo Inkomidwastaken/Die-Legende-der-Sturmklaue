@@ -1,9 +1,10 @@
 Spells und Items die Ich gerne Emporios eigen nennen würde. 
 Die unter *strong*  gellisteten Elemente sind vieleicht ehrst für höhere Levels geeignet. Ich übernehme keine garantie für die korrektheit der Einordnung in *strong* und nicht *strong*.
 
+**DISCLAIMER: Nichts was hier steht muss umbedingt gebalanced sein**
+
 # Magic Items:
 ## Homebrew:
-Items die es nicht offiziell gibt und die ich gerne finden / kaufen würde.
 
 - Boots of bootlegging (normal, and sharing version)
 
@@ -14,11 +15,12 @@ Items die es nicht offiziell gibt und die ich gerne finden / kaufen würde.
 
 - Wand of Tea Time (tee beschwörern + Etagère mit snacks(Etagère nur 16 und 17 Uhr), once a day)(oder einfac teeset das immer warm ist)
 
+nicht wirklich für mich aber ich wollte homebrewen:
 - cast on armor
 - silence bell (silence)
 
 ## Official:
-Items die es bereit in offiziellen Büchern gibt und die ich gerne finden / kaufen / herstellen würde.
+
 flavor:
 - [Wand of Conducting](https://5e.tools/items.html#wand%20of%20conducting_xge)
 - Wand of Pyrotechnics
@@ -40,15 +42,10 @@ strong:
 
 
 
-
-
-
-
-
-
-
 # Spells
-- jeder ritual spell
+
+- *jeder ritual spell*
+
 ## Drachen:
 - Summon Draconic Spirit (aus dem drachen buch)
 - Augury(mit drachen knochen)
@@ -56,23 +53,35 @@ strong:
 - Illusory Dragon
 
 
-
 ## Utility:
 - continual flame
 - Skywrite
 - Water Walk
-- Tenser's Floating Disk (als selvarun Spell/Item?)
-- Unseen Servant (als selvarun Spell/Item?)
+- Tenser's Floating Disk 
+- Unseen Servant 
 - Locate Object
 - identify
-- Glyph of Warding ( damage types)
+- Glyph of Warding ( damage types für fireball)
 - Leomund's Tiny Hut
 - Rary's Telepathic Bond
 
 ## Power
-- Scorching Ray (gerne auch als item wenn immernoch kompatibel mir scribe mage)
-- Fire Shield
+- Scorching Ray (gerne auch als item wenn immernoch kompatibel mir scribe mage feature)
 - Animate Objects
 - Control Winds
 - Telekinesis
-- Tenser's Transformation
+
+# Homebrew Items:
+
+Boots of bootlegging (normal, and sharing version)
+
+Wand of garden furniture summoning (stühle, bänke, tische, liegen, hängematten) (in drei stufen)
+	- TÄRNÖ
+	- ÄPPLARÖ
+	- SJÄLLAND
+
+Wand of Tea Time (tee beschwörern + Etagère mit snacks(Etagère nur 16 und 17 Uhr), once a day)(oder einfac teeset das immer warm ist)
+
+
+cast on armor
+silence bell (silence)
