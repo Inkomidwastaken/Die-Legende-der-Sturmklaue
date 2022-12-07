@@ -33,7 +33,7 @@ Tal'Dorei Campaign Setting Reborn:
 - Selvarun Glass-Weapon
 - Selvarun Glass-Armor
 
-- [[#Brenessel:|Brenessel]]
+- [[#Brenessell]]
 
 - Shattering-Arrow
 - Invisible Arrow
@@ -44,7 +44,7 @@ Tal'Dorei Campaign Setting Reborn:
 
 - Wand of the Prism
 
-- Faerie Fire in a Bottle
+- Faerie Fire in a Bottle (nur die Flasche. Feuer muss gespendet werden)
 
 #### Spells aus denen man Items machen könnte:
 - pass without trace
@@ -149,39 +149,39 @@ Abhängig von der Rarity können die Illusionen unterschiedlich groß sein:
 | Uncommon | Hallucinatory Terrain | 4      | 150-foot cube  | alle Sinne |
 | Rare | Programmed Illusion | 6      | 30-foot cube  | animiert, reagiert auf Input |
 
-### Sunglasses:
+### Sunglasses
 "you know what I want them to do..."
 
-### Moonglasses:
+### Moonglasses
 Brillen mit weißen Gläsern. Geben einem darkvision.
 
-### Glasses of Magic detection:
+### Glasses of Magic detection
 Permanent detect magic. Uncommon
 
-### Glasses of Seeing Invisibility:
+### Glasses of Seeing Invisibility
 Permanent See Invisibility. Uncommon or Rare
 (Robe of Eyes ist Rare)
 
-### Glasses of True Seeing:
+### Glasses of True Seeing
 Permanent True Seeing. Very Rare 
 (Gem of Seeing isr Rare und hat charges)
 
-### Selvarun-Glass-Seal:
+### Selvarun-Glass-Seal
 Verschließt oder versiegelt etwas mit Selvarun-Glas. Wird mit command Wort oder Schlüssel geöffnet.
 
-### Selvarun Glass-Weapon:
+### Selvarun Glass-Weapon
 Eine Waffe aus Selvarun-Glas.
 - Ideen für Effekte benötigt
 - In verschiedenen Raritäten
 - Shatterspike  als Inspiration für uncommon 
 - Moonblade als Inspiration für legendary 
 
-### Selvarun-Glass-Armor:
+### Selvarun-Glass-Armor
 Eine Rüstung aus Selvarun-Glas.
 - Ideen für Effekte benötigt
 - vieleicht Cast-On-Armor?
 
-### Brenessel:
+### Brenessel
 Ein grüner Glasfederfüller mit Brenessel Verzierungen.
 Der Füller hält Säure anstatt Tinte.
 Als "Waffe-ziehen-Aktion": 
@@ -194,26 +194,26 @@ zu klären:
 - see [Dagger of Venom](https://5e.tools/items.html#dagger%20of%20venom_dmg)
 
 
-### Shattering-Arrow:
+### Shattering-Arrow
 Ein überaus robuster Pfeil mit einer sehr zerbrechlichen Spitze. Wenn die Spitze bricht zerbricht der Pfeil zu Staub, wobei eine Explosion wie beim Spell [Shatter](https://5e.tools/spells.html#shatter_phb) erzeugt wird.
 
-### Invisible Arrow:
+### Invisible Arrow
 Ein unsichtbarer aus Glas gefertigter Pfeil, der nahezu lautlos fliegt.
 
-### Invisible Weapon:
+### Invisible Weapon
 Eine unsichtbare Waffe.
 "Wo hab ich den Dolch noch gleich hin geworfen?"
 
-### Weapon of Invisibility:
+### Weapon of Invisibility
 Eine Kreatur die mit dieser Waffe getötet wird, ist für eine Stunde Unsichtbar.
 
-### Magnifying² Glass:
+### Magnifying² Glass
 Das "Mmagnifying Magnifying Glass" oder auch "Magnifying Glass of Magnifying" 
 Je nachdem von welcher Seite man durschaur sehen Sachen entweder größer oder kleiner aus.
 Hat charges mit denen man Enlarge/Reduce casten kann
 - mit oder ohne concentration?
 
-### Wand of the Prism:
+### Wand of the Prism
 Langer dreieckiger Stab aus Glas.
 hat charges.
 Castet Spells die mit Licht / Farbe zu tun haben.
@@ -226,6 +226,6 @@ weitere spells:
 - Wall of Light (Lv 5)
 - Prismatic Spray (Lv 7)
 
-### Faerie Fire in a Bottle:
+### Faerie Fire in a Bottle
 Eine flasche die mit bunt leuchtendem Feuer gefüllt ist.
 Wenn sie zerbricht wird Faerie Fire gecastet.
