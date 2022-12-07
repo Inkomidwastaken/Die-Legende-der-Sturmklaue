@@ -1,25 +1,25 @@
 Ein bisschen Brainstormung zu Items und Spells, die thematisch zu den Selvaruns passen. Muss nicht heißen, dass jeder Selvarun diese Items herstellen und Spells benutzen kann. Warscheinlich eher die wenigsten. Man müsste schon n Main Character sein oder sowas...
 
-**DISCLAIMER: Nichts was hier steht muss umbedingt gebalanced sein**
+>**METAGAMING HINWEIS: Das herstellen von magischen Items ist unweigerlich Teil des Gameplays und des Roleplays. Es sollte darauf geachtet werden, beistehenden Artificern nicht auf den metaphorischen Schlips zu treten.**
+
+>**DISCLAIMER: Ich übernehme keine Garantie dafür, dass die hier gelisteten Items und Spells für den momentanen Stand der Kampagne gebalanced sind.**
 
 # Items:
 ## Nichtmagicsche Items:
 - Spyglass
 - Magnifying Glass
 
-## Magische Items
-### Offizielle:
-- Sorcerous Spyglass
+## Offizielle Magische Items:
 - Crystal Ball
 - Crystal Ball of True Seeing
 - Crystal Blade
 - Gem of Seeing
 - [Staff of Defense](https://5e.tools/items.html#staff%20of%20defense_lmop)
 
-#### Tal'Dorei Campaign Setting Reborn:
+Tal'Dorei Campaign Setting Reborn:
 - [Mirror of Infinite Transpondence](http://dnd5e.wikidot.com/wondrous-items:mirror-of-infinite-transpondence)
 
-### Homebrew:
+## Homebrew Items:
 - Illusion Marble
 
 - Sunglasses
@@ -52,8 +52,6 @@ Ein bisschen Brainstormung zu Items und Spells, die thematisch zu den Selvaruns 
 - Spiritual Weapon
 - Daylight
 
-
-
 # Spells:
 ## von Thematiken:
 
@@ -63,7 +61,7 @@ Durchsichtig:
 
 - Unseen Servant 
 
-Brüchig (Prince roupert drop platzt):
+Brüchig:
 - Shatter
 
 Der Wall™:
@@ -99,7 +97,9 @@ Material:
 
 Magische Items:
 - Magic Weapon (schwerter)
+
 ## von Offiziellen Items:
+
 - detect magic (Sorcerous Spyglass) (1)
 - scrying (Crystal Ball) (5)
 - True Seeing (Crystal Ball of True Seeing, Gem of Seeing) (6)
@@ -131,8 +131,6 @@ Magische Items:
 - Prismatic Spray (Wand of the Prism) (7)
 
 - Faerie Fire (Faerie Fire in a Bottle) (1) (Nicht zu lernen. Muss gesammelt werden)
-
-
 
 # Homebrew Items:
 
