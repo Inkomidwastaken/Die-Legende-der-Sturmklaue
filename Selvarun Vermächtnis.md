@@ -208,7 +208,7 @@ Eine unsichtbare Waffe.
 Eine Kreatur die mit dieser Waffe getötet wird, ist für eine Stunde Unsichtbar.
 
 ### Magnifying² Glass
-Das "Mmagnifying Magnifying Glass" oder auch "Magnifying Glass of Magnifying" 
+Das "Magnifying Magnifying Glass" oder auch "Magnifying Glass of Magnifying" 
 Je nachdem von welcher Seite man durschaur sehen Sachen entweder größer oder kleiner aus.
 Hat charges mit denen man Enlarge/Reduce casten kann
 - mit oder ohne concentration?
