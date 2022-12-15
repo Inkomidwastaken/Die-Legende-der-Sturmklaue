@@ -8,43 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8a074da000428eee",
+            "id": "a3f3f130f4e0b1f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Notes 25 - 01.12.2022.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f0303b3a2f46ddb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Selvarun Vermächtnis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "bbb77d08085f3ecc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "616c889393acecb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wunschliste.md",
+                "file": "Notes 26 - 15.12.2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selvarun Vermächtnis.md",
+                "file": "Notes 26 - 15.12.2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6f0303b3a2f46ddb",
+  "active": "a3f3f130f4e0b1f0",
   "lastOpenFiles": [
-    "Wunschliste.md",
-    "Selvarun Vermächtnis.md",
-    "().md",
-    "Sturmklaue.md",
-    "Mondblut.md",
+    "Notes/Notes 21 - 20.102022.md",
+    "Notes/Notes 10 - 20.03.2022.md",
+    "Notes/Notes 9 - 06.03.2022.md",
+    "Notes 26 - 15.12.2022.md",
     "Notes/Notes 25 - 01.12.2022.md",
-    "pages/contents.md",
-    "Notes/Notes 20 - 15.09.2022.md",
-    "Charaktere/Balok T'sar.md",
-    "Amanda.md"
+    "Notes/Notes 24 - 17.11.2022.md",
+    "Selvarun Vermächtnis.md",
+    "Wunschliste.md",
+    "().md",
+    "Sturmklaue.md"
   ]
 }

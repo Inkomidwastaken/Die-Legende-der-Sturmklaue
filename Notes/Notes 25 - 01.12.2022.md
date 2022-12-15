@@ -8,4 +8,6 @@ Emporio polymorpht Silvers in einen Spermwhale
 
 Nach dem Kampf fässt Ajay einen Blauen Stein im Tron an. Der Stein wird erst grün und dann zu staub. Ajay enthält ein Zeichen in seiner Hand. Sonne aus Tentakeln. in der mitte ein Dreizack
 Nachdem sich Ajay auf den Tron setzt öffnet sich das Portal wieder
-# Ferdinant knurr ist der Frauenbeauftragter der Sturmklaue
+
+## [[Ferdinant Knurr]] ist jetzt der Frauenbeauftragte der Sturmklaue
+
