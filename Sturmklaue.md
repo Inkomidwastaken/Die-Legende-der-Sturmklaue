@@ -22,8 +22,8 @@ Vashraz der Invalide
 
 
 ### Mitreisende:
-Helmut der Greis  s
-Luthrosa die Wallwächterin
+Helmut der Greis  
+[[Luthrosa]] die Wallwächterin
 
 ### Inaktive:
 [[Gemini]], Schiffsarzt - ins Feywild zurückgekehrt

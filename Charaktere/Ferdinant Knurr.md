@@ -1,4 +1,3 @@
 ---
 aliases: der gnolle Ferdinant
-
 ---
