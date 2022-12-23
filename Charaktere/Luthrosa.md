@@ -1,0 +1,1 @@
+Luthrosa ist eine (ehemealige) Wächterin des [[Wall|Walls]]. 

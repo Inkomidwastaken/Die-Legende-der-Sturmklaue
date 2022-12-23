@@ -2,5 +2,4 @@
 aliases: Glamourboy Jack
 tags: NPC
 ---
-hat gemeinsame geschichte mit [[Vandock
-]]
+hat gemeinsame geschichte mit [[Vandock]]

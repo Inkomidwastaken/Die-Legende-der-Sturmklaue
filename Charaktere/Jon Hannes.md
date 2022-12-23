@@ -2,6 +2,10 @@
 aliases: JoHa
 tags: NPC
 ---
+Race: Kobold
+Class: ?
+
+---
  - Kobold
  - einziger überlebender Kobold der dem unheimlichen Leonin in der Duregarmiene gedient hat
 

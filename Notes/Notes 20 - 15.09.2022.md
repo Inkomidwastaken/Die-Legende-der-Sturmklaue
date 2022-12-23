@@ -45,7 +45,7 @@ emporio untesuch cedis Tagebuch:
 - verucht portale zu öffnen, fast immer gescheitert oder problematisch
 - 1 woche pause
 - Durchbruch. Portal erschaffen. hat dort "Subjekt" Gemini gefunden
-- schreibt darüber dass Gemini anders ist al ormale Farys
+- schreibt darüber dass Gemini anders ist al normale Farys
 - Schreibt darüber dass emporo Gemini geklaut hat.
 - letzter eintrag: alles in destend verkauft und mit geld eine der besten söldnergrppen angeheuert und jagd gemacht
 - Zusammengefalteter brief im Tagebuch:

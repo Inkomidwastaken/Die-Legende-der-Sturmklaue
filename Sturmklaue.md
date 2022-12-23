@@ -16,13 +16,13 @@ Die Sturmklaue ist ein Piratenschiff unter der Leitung von Kapitän [[Vandock]].
 
 [[Jon Hannes]] der Kobold
 [[Ferdinant Knurr]] der Gnoll
-Miranda
-Olaf der Söldner
-Vashraz der Invalide
+[[Miranda]]
+[[Olaf der Söldner]]
+[[Vashraz der Invalide]]
 
 
 ### Mitreisende:
-Helmut der Greis  
+[[Helmut der Greis]]
 [[Luthrosa]] die Wallwächterin
 
 ### Inaktive:
