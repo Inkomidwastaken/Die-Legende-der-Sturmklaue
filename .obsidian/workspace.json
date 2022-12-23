@@ -11,8 +11,12 @@
             "id": "11a1c5d27c8b5b59",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Items/Helmuts Staff of Power.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Items/Helmuts Staff of Power.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Items/Helmuts Staff of Power.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,15 +109,15 @@
   },
   "active": "11a1c5d27c8b5b59",
   "lastOpenFiles": [
-    "Helmuts Staff of Power.md",
-    "Mondblut.md",
+    "Items/Mondblut.md",
+    "Selvarun.md",
+    "Selvarun Vermächtnis.md",
+    "Silbervögel.md",
+    "Sturmklaue.md",
+    "To-do.md",
+    "Wunschliste.md",
+    "Items/Helmuts Staff of Power.md",
     "pages/contents.md",
-    "Notes/Notes 18 - 24.07.2022.md",
-    "Notes/Notes 19 - 08.09.2022.md",
-    "Charaktere/Vashraz der Invalide.md",
-    "Charaktere/Professor Cedis.md",
-    "Orte/Fellonhall.md",
-    "Wall.md",
-    "Charaktere/Luthrosa.md"
+    "Notes/Notes 18 - 24.07.2022.md"
   ]
 }
