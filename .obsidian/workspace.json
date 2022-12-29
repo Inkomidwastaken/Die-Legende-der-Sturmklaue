@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "342a020707c9a480",
+        "id": "7cc22591b3e0fcd9",
         "type": "tabs",
         "children": [
           {
-            "id": "11a1c5d27c8b5b59",
+            "id": "83ed6d86e906e688",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Helmuts Staff of Power.md",
+                "file": "Notes/Notes 20 - 15.09.2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9637da21b215867",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Notes 28 - 29.12.2022.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,8 +61,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kinder",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -61,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "83b7000956708d4b",
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Helmuts Staff of Power.md",
+                "file": "Notes/Notes 28 - 29.12.2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,37 +100,34 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "7dee87296f478b92",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Items/Helmuts Staff of Power.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
-  "active": "11a1c5d27c8b5b59",
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "markdown-importer:Markdown Importprogramm öffnen": false
+    }
+  },
+  "active": "f9637da21b215867",
   "lastOpenFiles": [
-    "Items/Mondblut.md",
+    "Notes/Notes 20 - 15.09.2022.md",
+    "Notes/Notes 28 - 29.12.2022.md",
+    "Notes/Notes 26 - 15.12.2022.md",
+    "Notes/Notes 27 - 22.12.2022.md",
+    "Charaktere/Ajay Mollekorn.md",
     "Selvarun.md",
-    "Selvarun Vermächtnis.md",
-    "Silbervögel.md",
+    "Der Wall.md",
     "Sturmklaue.md",
-    "To-do.md",
-    "Wunschliste.md",
-    "Items/Helmuts Staff of Power.md",
-    "pages/contents.md",
-    "Notes/Notes 18 - 24.07.2022.md"
+    "Luthrosa.md",
+    "Charaktere/Ferdinant Knurr.md"
   ]
 }
