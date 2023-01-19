@@ -85,7 +85,7 @@ Tiefling Frau wird festgehalten um Portal zu schließen. Das mit den Auserwählt
 
 Name: Israda
 Rote Tiefling ohne Haare
-Ist Doktorand in der Akademie von Ostamark. Elementare Magie und Planekune
+Ist Doktorand in der Akademie von Ostamark. Elementare Magie und Planekunde
 Ist seit einem Jahr hier wegen einer magischen Anomalie
 Vor einem Jahr war das Portal so groß wie ihre Hand.
 Jetzt ist es so groß wie ein Feuerriese

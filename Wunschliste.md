@@ -105,7 +105,7 @@ Wand of Tea Time (tee beschwörern + Etagère mit snacks(Etagère nur 16 und 17 
 **Wondrous item, uncommon**
 ___
 Wenn man es ausbreitet, erscheint ein fein verarbeitete Porzellan Teekanne auf diesem Tischtuch, zusammen mit passenden Tassen und Untertassen für jedes Wesen, das um es herum sitzt. Der Teekessel fasst eine unendliche Menge an klassischem britischen Nachmittagstee.
-(Die kullinarische Region Großbritanniens kann durch eine passende Reigon aus deiner Welt ersetzt werden).
+(Die kullinarische Region Großbritanniens kann durch eine passende Region aus deiner Welt ersetzt werden).
 Wenn die Tischdecke zwischen 16 und 17 Uhr benutzt wird, erzeugt sie zusätzlich eine Etagère mit den dazugehörigen Snacks.
 Wenn das Tischtuch zusammengefaltet wird, verschwindet alles, was durch das Tischtuch entstanden ist und nicht verzehrt wurde.
 
