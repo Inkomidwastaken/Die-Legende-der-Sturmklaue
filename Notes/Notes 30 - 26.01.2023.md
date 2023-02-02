@@ -20,6 +20,8 @@ Antwort:
 
 
 Wir vermieten den Jägerhof an Mister C
+Mister Cs Crew hat gemäutert
+hat ihn auf Equador zurückgelassen
 
 Inquisitor der die Schiffe mit Mondblutverwaltet hat sucht nach uns
 
