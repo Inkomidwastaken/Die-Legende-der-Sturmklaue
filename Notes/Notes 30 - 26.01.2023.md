@@ -71,3 +71,12 @@ Vic erhält neuen Auftrag: Lordadmiral Balstrom
 Vic befrägt Clint. Dieser kennt die Kinder des Sturms, sagt die sind mit dem verschwinden involviert.
 Vic tötet Clint.
 
+Vic und Silvers besuchen Doktor Wellengang
+die Kinder aus dem Weisenhaus liegen alle in Koma
+Haben alle ein Loch im Schädel 
+
+Dr Wellengang denkt Vic ist ein Doctor
+Bittet ihn bei Operation zu helfen
+Patient hat einen sich bewegenden Wulst unter dem Auge
+Vic schneidet das Ding raus
+

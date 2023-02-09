@@ -29,7 +29,7 @@ GBJs schiff hat ein Herz mit gesicht drinn als Gallionsfigur. Das Schiff heis Th
 
 Gemini Behandelt Verletzte Kinder (unter dem namen dr wellengand)
 
-Emporio geht zu Bücherhändler beim reisenden Folk
+Emporio geht zu Bücherhändler (Loxodon) beim Fahrendem Folk
 - intellect fortress für 150gp
 - legend lore für 5500gp
 - Buch "Fortgeschritene demonologie"

@@ -49,5 +49,6 @@ Weisenhaus Frau wurde wie Mollekorns entfürt
 
 Balock, Ajay und Emporo gehen zum Bürgeramt
 Ajay lenkt bedienstetre ab
+Emporio durchsucht Alte Anträge
 Balock und Emporio schleichen sich unsichtbar ins Gebäude
 
