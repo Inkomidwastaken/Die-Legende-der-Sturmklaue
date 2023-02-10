@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7cc22591b3e0fcd9",
+        "id": "aa3a20b883ccb843",
         "type": "tabs",
         "children": [
           {
-            "id": "ce232ba771307669",
+            "id": "80d263111b8de3e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Notes 32 - 09.02.2023.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ana",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +73,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Notes 32 - 09.02.2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Notes 32 - 09.02.2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,17 +122,17 @@
       "markdown-importer:Markdown Importprogramm öffnen": false
     }
   },
-  "active": "ce232ba771307669",
+  "active": "80d263111b8de3e0",
   "lastOpenFiles": [
-    "Orte/Fellonhall.md",
-    "Fall von Sekunda.md",
-    "Charaktere/Teclis Fellonhall.md",
-    "Charaktere/Fayrith Fellonhall.md",
-    "Selvarun.md",
     "Notes/Notes 32 - 09.02.2023.md",
-    "Notes/Notes 31 - 02.02.2023.md",
-    "Unbenannt.canvas",
-    "Notes/Notes 13 - 24.04.2022.md",
-    "Notes/Notes 30 - 26.01.2023.md"
+    "Notes/Notes 0 - 22.12.2021.md",
+    "Valastra.md",
+    "Valastras Zuflucht.md",
+    "Freihafen.md",
+    "Uthrend (Kontinent).md",
+    "Orte/Uthrend.md",
+    "Sekunda.md",
+    "Forglung.md",
+    "Orte/Wall.md"
   ]
 }
