@@ -13,7 +13,7 @@ Wird benutzt um alles was aud metall ist zu verstärken und magische eigenschaft
 
 Emporio holt sich den Bag of holding von Pete
 
-Pete empfiehlt den Schwarzmarkt, vor allem aber das Fahtrende Folk um nach Spellbooks zu kaufen.
+Pete empfiehlt den Schwarzmarkt, vor allem aber das Fahrende Folk um nach Spellbooks zu kaufen.
 
 Satara ist eine Freundin von Tacles Frau und schülerin an der akademie Ostaermark
 

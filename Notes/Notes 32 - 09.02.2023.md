@@ -71,7 +71,7 @@ Emporio liest brief mit Sechs augen Siegel.
 Sechs augen von Baelstrum 
 Siegel war noch nicht gebrochen
 	Valastra hat schwierigkeiten mit kindern (Clint)
-	Person kann sich um Klint Kümmern
+	Person kann sich um Clint Kümmern
 	Warnt. ist nie gut dem Admiralsrat etwas zu schulden
 	Welchen preis ist Valastra bereit zu zahlen?
 	bringt es bei mitternacht zur höle

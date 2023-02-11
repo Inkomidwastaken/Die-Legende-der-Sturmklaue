@@ -1,5 +1,5 @@
 ---
-aliases: little breeze, Ajay
+aliases: little breeze, Ajay, Josua Osthalz
 tags: PC
 ---
 

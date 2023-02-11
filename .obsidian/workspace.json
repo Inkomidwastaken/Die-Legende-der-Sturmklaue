@@ -11,11 +11,48 @@
             "id": "80d263111b8de3e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Notes 32 - 09.02.2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68a3c4d56c57c8b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Georg Spießrich.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c8015d08aad441c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Augen von Baelstrom.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abfe7d6401b900d6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -44,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ana",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,17 +159,17 @@
       "markdown-importer:Markdown Importprogramm öffnen": false
     }
   },
-  "active": "80d263111b8de3e0",
+  "active": "abfe7d6401b900d6",
   "lastOpenFiles": [
-    "Notes/Notes 32 - 09.02.2023.md",
     "Notes/Notes 0 - 22.12.2021.md",
-    "Valastra.md",
-    "Valastras Zuflucht.md",
-    "Freihafen.md",
-    "Uthrend (Kontinent).md",
-    "Orte/Uthrend.md",
-    "Sekunda.md",
-    "Forglung.md",
-    "Orte/Wall.md"
+    "Notes/Notes 32 - 09.02.2023.md",
+    "Augen von Baelstrom.md",
+    "Lord Baelstrom.md",
+    "Georg Spießrich.md",
+    "Lutenant Briggo.md",
+    "Commodore Stahlkralle.md",
+    "Militär von Freihafen.md",
+    "Charaktere/Ajay Mollekorn.md",
+    "Charaktere/Luthrosa.md"
   ]
 }
