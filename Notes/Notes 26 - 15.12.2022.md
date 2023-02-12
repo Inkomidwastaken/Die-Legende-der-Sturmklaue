@@ -46,7 +46,7 @@ Amjarr wurde angegriffen und abgebrant
 [[Iron Mike]]: ein anti-Sklaven Aktivist
 Manche leute
 
-Pentagrad ist zurück auf dem Sklavenmarkt
+Pentagard ist zurück auf dem Sklavenmarkt
 
 Vick geht gift einkaufen
 

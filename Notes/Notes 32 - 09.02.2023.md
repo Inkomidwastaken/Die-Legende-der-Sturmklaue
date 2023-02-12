@@ -43,7 +43,7 @@ Mort an Count Jhonas
 Anschlag auf trockendock
 Angrtiff auf Stadt
 Vorfälle auf Friedhof
-Pentagrad
+Pentagard
 
 Akte im Schrank über Baltesar Mollekorn:
 Verschiedene Beschwerden über Arkananlagen

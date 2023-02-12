@@ -85,7 +85,7 @@ MMN: "wo befindet sich umberlee"
 Antwort: "Die Seehexe ist zuhause und doch fern."
 
 Hüter Des Walles ist ein Orden der an den 3 Türmen den Wall aufrecht erhällt und überwacht.
-80% Fellonhall 20% Pentagrad
+80% Fellonhall 20% Pentagard
 In Fellonhall sehr angesehene Magier oder Krieger.
 
 Luthosa sieht fahrende insel in dder nacht

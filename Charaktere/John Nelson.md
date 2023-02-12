@@ -14,6 +14,6 @@ Merkmale:
 - Rechter Arm, rechter Fuß, rechtes Auge sind Synthetisch
 
 Geschichte:
-- auf dem Weg von Pentagrad nach Freihafen gab es ein "großes Bumm"
+- auf dem Weg von Pentagard nach Freihafen gab es ein "großes Bumm"
 - auf Planke im Meer aufgewacht
 - zufällig kam die [[Sturmklaue]] vorbei die ihn aufnahm

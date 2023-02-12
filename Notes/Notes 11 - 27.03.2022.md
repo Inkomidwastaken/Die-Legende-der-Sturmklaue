@@ -1,7 +1,7 @@
 Gemii lernt bei Dr Wellengang
 Ajay gibt Emporio eine Stadttour
 Vic redet mit Clint
-Clint bietet dn Job an den Kristall zu klauen den die Pentagrader haben wollen. Hat pläne vom Haus/Villa
+Clint bietet dn Job an den Kristall zu klauen den die Pentagarder haben wollen. Hat pläne vom Haus/Villa
 
 Silvers und Balock backen Muffins aus dem Wunderkraut. Haut John Hannes und Gnolol um
 

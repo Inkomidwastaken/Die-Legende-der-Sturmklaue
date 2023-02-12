@@ -33,15 +33,16 @@ Worldbuilding:
 - Metallische drachen tuhen siech zusammen und schaffen es "irgendwie" un angriff zu verteidigen. sind dann verschwunden. Meiste glauben das sie ihr leben geopfert haben
 - alter kontinent immer noch von chaos kreaturen überlaufen. sehr gefährlich
 - verbleibende völer errichten energieschield zwischen konntinente. mit großer hilfe der Elfen. Die drei Spires halten Barriere aufrecht
-- Überbleibsel der Zwerge und gnome fahren nach westen. stoßen auf überresten von sekunda. gründen die Stadt [[Pentagrad]]. Wegen fünf riesiegen Bergen. Stadt hängt in der Luft. hängt an den Bergen
-- Pentagrad ist Hextech/Steampunk technologisches Zentrum der welt. Haben Warfarged erfunden
+
+- Überbleibsel der Zwerge und gnome fahren nach westen. stoßen auf überresten von sekunda. gründen die Stadt Pentagard. Wegen fünf riesiegen Bergen. Stadt hängt in der Luft. hängt an den Bergen
+- Pentagard ist Hextech/Steampunk technologisches Zentrum der welt. Haben Warfarged erfunden
 - Sehr hohe Korruption
 - Höchstes Vergehen ist Armut
 - wer nicht seine schulden bezahlen kann wird versklavt
 - Nur zwei Luftschüffruten nach Pentadrad. Es gibt eintritt in die Stadt. wer ihn sich nicht leisten kannist "zu arm für die Stadt"
 - Rat aus 8 personen. 4 zwerge 4 gnome für 4 akademien der artificer technik.
 - Einziege Bank der Welt ist in Pentgrad
-- Inseln westlich von Pentagrad sind auch splitter des ondes
+- Inseln westlich von Pentagard sind auch splitter des ondes
 
 - Ostamark. Semi Republik (Olegarchie). Adlige wählen Herrscher.
 - hauptstadt destend
@@ -64,7 +65,7 @@ Worldbuilding:
 - von seefahregr, händler und piraten gegründet
 - von Kapitänsrat regiert. die meisten sind aber nur die nachkommen der gründer und sind keine Kapitäne
 - 90 % des Binnenhandels über freihafen
-- eine der zwei luftschiffstadtionen nach pentagrad
+- eine der zwei luftschiffstadtionen nach Pentagard
 - Tavernen:
   - goldener schwahn
   - windstärke 1/3. auf land gefahrenes schiff
@@ -91,10 +92,10 @@ Schamharal:
 - Kastensystem ähnlich wie dnd Klassen
 - Krieger die höchste Kaste
 - Ajhum ist die hauptstadt
-- Ajhum at zweite luftfischstation zu pentagrad
+- Ajhum at zweite luftfischstation zu Pentagard
 - Vorwiegend von Tabaxi und Leonin 
 - Cassiss die tabaxi königin
-- Neben Pentagrad ein Könireich das auf Sklavenhandel aufbaut
+- Neben Pentagard ein Könireich das auf Sklavenhandel aufbaut
 - mögen fallonhall eigentlich nicht. aber koexistieren und handeln aus praktikablität
 
 Letztes Elfenkönigreich:
@@ -136,5 +137,5 @@ bekannte Piraten:
 
 3 level an bewaffnung:
 - mittelalterlich
-- feuerwafen. zb pistolen oder kanonen . teuer. aus pentagrad.
-- arkane waffen. nur in pentagrad erhältlich. sehr von pentagrad gehütet
+- feuerwafen. zb pistolen oder kanonen . teuer. aus Pentagard.
+- arkane waffen. nur in Pentagard erhältlich. sehr von Pentagard gehütet

@@ -62,7 +62,7 @@ Pentagarder fragen nach blauem Stein
 
 Laut Goldzahn ist der Stein ein Seltener Edelstein aus Sekunda. Kann ein Luftschiff betreiben. ist eine Energiequelle.
 
-Der "Count" hat den stein aus pentagrad rausgeschmuggeld. hohes tier in Freihafen (Admiral)
+Der "Count" hat den stein aus Pentagard rausgeschmuggeld. hohes tier in Freihafen (Admiral)
 
 Valastra. Besitzerein von Waisenhaus Valastras Zuflucht
 

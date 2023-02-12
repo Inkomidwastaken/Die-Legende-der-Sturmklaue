@@ -4,7 +4,7 @@ tags: NPC
 Race: Halbelf (Wood)
 
 
-Luthrosa ist eine (ehemealige) Wächterin des [[Wall|Walls]]. 
+Luthrosa ist eine (ehemealige) [[Wallwächter|Wallwächterin]].
 
 
 

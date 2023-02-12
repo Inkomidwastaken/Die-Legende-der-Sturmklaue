@@ -2,7 +2,7 @@
 - DIe Statue der Schlange  ist komplett aus Edelsteinen 
 
 - Vic frägt Kurjuw aus
-- Er hat auch eine reiche handelfrau aus Pentagrad mehrere abgesante aus durgos UND DIE KÖNIGIN VOB SCHAMRAHAL stehen lassen.
+- Er hat auch eine reiche handelfrau aus Pentagard mehrere abgesante aus durgos UND DIE KÖNIGIN VOB SCHAMRAHAL stehen lassen.
 - Aschmir "besucht" kurjuw uf der Sturmklaue
 - Am ende schlafen sie und Kurjuw in Vandocks Bett
 - Vick Weckt sie auf, Vandock schmeißt sie raus

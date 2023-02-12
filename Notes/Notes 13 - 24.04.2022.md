@@ -48,5 +48,5 @@ Ajay als 1. Mate
 
 
 Silvers heit sein Arm und bein beim Experiment mit Energiekernen verloren
-Silvers wurde nicht in Pentagrad geboren
+Silvers wurde nicht in Pentagard geboren
 

@@ -19,7 +19,7 @@
 - volgrim Goldhand kauft mänliche fary von 2. Liste
 - little breeze fplgt verkäufering in Hinterzimmer
 - dort ist Bixbo und ein Schwarzer tiefling mit weiße hörnern
-- volgrim ist laut bixbo "hoher" besuch aus pentagrad
+- volgrim ist laut bixbo "hoher" besuch aus Pentagard
 - Tiefling stellt seine augen auf blau und scheint ajay sehen zu können
 - Ajay behauptet arcy kaufen zu wollen.
 - Tiefling ist der Vorstand der Kavannerie. Su Annam
