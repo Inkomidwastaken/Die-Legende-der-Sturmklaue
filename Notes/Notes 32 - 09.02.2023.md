@@ -93,3 +93,4 @@ Keine Teleportation IN den bereich möglich möglich
 Vic findet versteckten Knopf
 Schließt Kapelle ab und öffnet Wendeltreppe unter dem Altar
 Auf der Treppe steht eines der Augen von Baelstrom (2 edelstein maske)
+
