@@ -1,5 +1,6 @@
 ---
 tags: NPC
+race: halfelf
 ---
 Race: Halbelf (Wood)
 
