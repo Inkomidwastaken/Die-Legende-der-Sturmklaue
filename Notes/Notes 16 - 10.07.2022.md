@@ -9,7 +9,7 @@ Bttler führt vic  zu Count jonas ins Empfangszimmer.
 
 Buttler heist Duke
 
-Der Count erken t Vik als den kleinen jungen von damals wieder
+Der Count erkent Vik als den kleinen jungen von damals wieder
 er bietet vic an ihm zu einem ganzem vampier zu machen
 
 Count will sich mit dem Mondherz bei einem Cult einkaufen der die Sonne verdunkeln will. Kinder des Sturmes. Ron jude (spooky leonin) hat den kontact zum count hergestellt.
