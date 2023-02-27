@@ -35,12 +35,16 @@
             "id": "c1baf759b8a26375",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Organisationen/Sturmklaue.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Charaktere/Luthrosa.md",
+                "file": "Organisationen/Sturmklaue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Charaktere/Luthrosa.md",
+                "file": "Organisationen/Sturmklaue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +154,7 @@
       "markdown-importer:Markdown Importprogramm öffnen": false
     }
   },
-  "active": "502f92d8b9946ec7",
+  "active": "c1baf759b8a26375",
   "lastOpenFiles": [
     "Charaktere/Luthrosa.md",
     "Sturmklaue.md",
