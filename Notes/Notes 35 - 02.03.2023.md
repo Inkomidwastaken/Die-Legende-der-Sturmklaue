@@ -5,4 +5,4 @@ auf einmal fallen alle zombies um
 
 Kampf gegen Johnes ist zu ende
 Emporio und Silvers realisieren dass Vic tot ist
-
+Die Toten werden in der Villa zurück gelassen
