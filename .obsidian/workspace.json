@@ -18,6 +18,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2330a25afc870843",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -48,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kleine",
+                "query": "leonin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,6 +138,13 @@
   },
   "active": "c77e91f86d6c495d",
   "lastOpenFiles": [
+    "Charaktere/Emporio Selvarun.md",
+    "Notes/Notes 16 - 10.07.2022.md",
+    "Notes/Notes 35 - 02.03.2023.md",
+    "Notes/Notes 29 - 19.01.2023.md",
+    "Pete.md",
+    "Jimmy J. D. Goblin.md",
+    "Jonny J. D. Goblin.md",
     "Notes/Notes 0 - 22.12.2021.md",
     "Notes/Notes 11 - 27.03.2022.md",
     "Charaktere/Ajay Mollekorn.md",
