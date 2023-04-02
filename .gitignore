@@ -5,4 +5,10 @@
 .trash/
 .DS_Store
 .obsidian/core-plugins.json
+<<<<<<< HEAD
+.obsidian/appearance.json
+.obsidian/core-plugins-migration.json
+.obsidian/core-plugins.json
+=======
+>>>>>>> a96c32e150f94fc66984cb5599a7dd5e49a15e61
 .obsidian/workspace.json

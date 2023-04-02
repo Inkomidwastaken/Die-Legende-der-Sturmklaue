@@ -4,47 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "aa3a20b883ccb843",
+        "id": "32fbeee11a8d5926",
         "type": "tabs",
         "children": [
           {
-            "id": "44ade1a30e144707",
+            "id": "c77e91f86d6c495d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Charaktere/Luthrosa.md",
+                "file": "Notes/Notes 35 - 02.03.2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "502f92d8b9946ec7",
+            "id": "2330a25afc870843",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Charaktere/Luthrosa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1baf759b8a26375",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organisationen/Sturmklaue.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "leonin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,12 +65,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "83b7000956708d4b",
@@ -98,35 +80,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "17e57ba177c1fb6d",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Organisationen/Sturmklaue.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "ab8c7986b877681a",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "f89743735246e978",
+            "id": "064324facdd73d8d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organisationen/Sturmklaue.md",
+                "file": "Notes/Notes 35 - 02.03.2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,13 +95,36 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "d91b1ffa8d608b0b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Notes 35 - 02.03.2023.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fc63465b36f2aabe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,17 +136,24 @@
       "markdown-importer:Markdown Importprogramm öffnen": false
     }
   },
-  "active": "c1baf759b8a26375",
+  "active": "c77e91f86d6c495d",
   "lastOpenFiles": [
-    "Charaktere/Luthrosa.md",
-    "Sturmklaue.md",
-    "Notes/Notes 20 - 15.09.2022.md",
-    "Notes/Notes 31 - 02.02.2023.md",
-    "Wallwächter.md",
+    "Charaktere/Emporio Selvarun.md",
+    "Notes/Notes 16 - 10.07.2022.md",
+    "Notes/Notes 35 - 02.03.2023.md",
+    "Notes/Notes 29 - 19.01.2023.md",
+    "Pete.md",
+    "Jimmy J. D. Goblin.md",
+    "Jonny J. D. Goblin.md",
     "Notes/Notes 0 - 22.12.2021.md",
-    "Orte/Wall.md",
-    "Kinder des Sturms.md",
-    "Karten/Map - Uthrend.png",
-    "Deep Wanderer.md"
+    "Notes/Notes 11 - 27.03.2022.md",
+    "Charaktere/Ajay Mollekorn.md",
+    "Notes/Notes 19 - 08.09.2022.md",
+    "Notes/Notes 20 - 15.09.2022.md",
+    "Notes/Notes 1 - 30.12.2021.md",
+    "Karten/Sturmklaue_Flagge.png",
+    "Sturmklaue.md",
+    "Notes/Notes 18 - 24.07.2022.md",
+    "Ajhum.md"
   ]
 }
