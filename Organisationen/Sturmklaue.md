@@ -10,9 +10,9 @@ Die Sturmklaue ist ein Piratenschiff unter der Leitung von Kapitän [[Vandock]].
 [[Ajay Mollekorn]],  Navigator, Steuermann, erster Maat 
 [[Balok T'sar]], Kapitän, Entercommander
 [[Emporio Selvarun]], Quatiermeister
-
 [[John Nelson]], Koch, Schiffsbetriebsmeister (lehrling)
-[[Victor Kalvar]], Gunner, Steuermann (lehrling)
+[[Aelis Arahel]] Heilerin
+
 
 [[Jon Hannes]] der Kobold
 [[Ferdinant Knurr]] der Gnoll
@@ -32,6 +32,7 @@ Die Sturmklaue ist ein Piratenschiff unter der Leitung von Kapitän [[Vandock]].
 † [[Vandock]], Kapitän
 † [[Kurjuw]], Erster Mat
 † [[Arcy]], Navigatorin
+† [[Victor Kalvar]], Gunner, Steuermann (lehrling)
 
 
 

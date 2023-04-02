@@ -42,11 +42,11 @@ Kennlon Arahael als konntakt für Fragen über Golddrachen
 Haus der Druiden ud Heiler in Fallonhall. Wird vom Rest Fellonhall belächelt. Hat mit einfachem Folk i umliegendem Land zu Tun.
 
 Bekannte Häuser in Fallonhall:
-herscherhaus : Fellonhall
-kriegshaus Ulakian
-Heiler: Arahel
-Veyra: Diplomaten
-Selvauns
+- herscherhaus : Fellonhall
+- kriegshaus Ulakian
+- Heiler: Arahel
+- Veyra: Diplomaten
+- Selvauns
 
 Ajay redet durch "speak with dead" mit Vics Erinnerungen
 Vics Schwester hieß Xenia Zanetti

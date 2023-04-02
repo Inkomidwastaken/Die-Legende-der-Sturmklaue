@@ -15,9 +15,17 @@ Kommt aus Fellonhall
 
 Jugendname: Kazaa
 
+
+Teleportation Circle locations:
+- mollekorns 
+- universität
+- admiralsplato
+- pete
+
+
 Aufgaben auf der [[Sturmklaue]]:
 - Quatiermeister (eschuhlt von [[Vandock]])
-
+- 
 Item Wishlist:
 - Boots of bootlegging
 - Summonable Gartentisch + Klapstuhl
