@@ -11,7 +11,7 @@ Die Sturmklaue ist ein Piratenschiff unter der Leitung von Kapitän [[Vandock]].
 [[Balok T'sar]], Kapitän, Entercommander
 [[Emporio Selvarun]], Quatiermeister
 [[John Nelson]], Koch, Schiffsbetriebsmeister (lehrling)
-[[Aelis Arahel]] Heilerin
+[[Aelis Vayra]] Heilerin
 
 
 [[Jon Hannes]] der Kobold
