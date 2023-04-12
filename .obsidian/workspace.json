@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "41181ad3b9314a69",
+            "id": "c77e91f86d6c495d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organisationen/Sturmklaue.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e476083fa753d17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Charaktere/Teclis Fellonhall.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddcbeec78d0f1aba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Notes 38 - 05.04.2023.md",
+                "file": "Notes/Notes 39 - 12.04.2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "teleport",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,8 +57,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -103,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Notes 38 - 05.04.2023.md",
+                "file": "Notes/Notes 39 - 12.04.2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Notes 38 - 05.04.2023.md",
+                "file": "Notes/Notes 39 - 12.04.2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,48 +115,47 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "canvas:Create new canvas": false
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "markdown-importer:Markdown Importprogramm öffnen": false
     }
   },
-  "active": "ddcbeec78d0f1aba",
+  "active": "c77e91f86d6c495d",
   "lastOpenFiles": [
-    "Charaktere/Teclis Fellonhall.md",
     "Notes/Notes 38 - 05.04.2023.md",
-    "Organisationen/Sturmklaue.md",
-    "Charaktere/Ellaria Fellonhall.md",
-    "Wunschliste.md",
-    "Organisationen/Ulakian.md",
-    "Organisationen/Vayra.md",
-    "Charaktere/Aelis Vayra.md",
-    "Organisationen/5 große Elfenhäuser.md",
-    "Orte/Sekunda.md",
-    "Ereignisse/Mondfall.md",
+    "Notes/Notes 39 - 12.04.2023.md",
     "Notes/Notes 37 - 02.04-2023.md",
-    "Charaktere/Fayrith Fellonhall.md",
-    "Orte/Fellonhall.md",
-    "Organisationen/Selvarun.md",
-    "Organisationen/Fellonhall (Haus).md",
-    "Notes/Notes 28 - 29.12.2022.md",
-    "Organisationen/Arahel.md",
-    "Charaktere/Arcy.md",
-    "Notes/Notes 35 - 02.03.2023.md",
-    "Notes/Notes 30 - 26.01.2023.md",
-    "Karten/Map - Uthrend.png",
-    "Organisationen/Die 7.md",
-    "Notes/Notes 14 - 01.05.2022.md",
-    "Notes/Notes 0 - 22.12.2021.md",
+    "Notes/Notes 33 - 16.02.2023.md",
+    "Notes/Notes 34 - 23.02.2023.md",
+    "Notes/Notes 29 - 19.01.2023.md",
     "Charaktere/Emporio Selvarun.md",
+    "Notes/Notes 35 - 02.03.2023.md",
+    "Untitled.md",
+    "Organisationen/Vayra.md",
+    "Organisationen/Ulakian.md",
+    "Organisationen/Fellonhall (Haus).md",
+    "Organisationen/Die 7.md",
+    "Organisationen/Arahel.md",
+    "Organisationen/5 große Elfenhäuser.md",
     "Notes/Notes 36 - 26.03.2023.md",
+    "Charaktere/Pete.md",
+    "Charaktere/Jonny J. D. Goblin.md",
+    "Charaktere/Jimmy J. D. Goblin.md",
+    "Charaktere/Aelis Vayra.md",
+    "Notes/Notes 16 - 10.07.2022.md",
+    "Pete.md",
+    "Jimmy J. D. Goblin.md",
+    "Jonny J. D. Goblin.md",
+    "Notes/Notes 0 - 22.12.2021.md",
+    "Notes/Notes 11 - 27.03.2022.md",
     "Karten/Sturmklaue_Flagge.png"
   ]
 }
