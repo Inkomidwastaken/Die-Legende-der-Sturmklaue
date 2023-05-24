@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "200f1cc0fd991881",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes 40 - 24.05.2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b265a2bfa36a3e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wahlkampf Freihafen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24ae4e8f82f24d9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Notes 35 - 02.03.2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "teleport",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +94,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Notes 39 - 12.04.2023.md",
+                "file": "Notes 40 - 24.05.2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Notes 39 - 12.04.2023.md",
+                "file": "Notes 40 - 24.05.2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,16 +166,19 @@
       "markdown-importer:Markdown Importprogramm öffnen": false
     }
   },
-  "active": "c77e91f86d6c495d",
+  "active": "200f1cc0fd991881",
   "lastOpenFiles": [
+    "Wahlkampf Freihafen.md",
+    "Notes/Notes 35 - 02.03.2023.md",
+    "Notes 40 - 24.05.2023.md",
+    "Notes/Notes 29 - 19.01.2023.md",
+    "Charaktere/Emporio Selvarun.md",
     "Notes/Notes 38 - 05.04.2023.md",
     "Notes/Notes 39 - 12.04.2023.md",
+    "Charaktere/Ajay Mollekorn.md",
     "Notes/Notes 37 - 02.04-2023.md",
     "Notes/Notes 33 - 16.02.2023.md",
     "Notes/Notes 34 - 23.02.2023.md",
-    "Notes/Notes 29 - 19.01.2023.md",
-    "Charaktere/Emporio Selvarun.md",
-    "Notes/Notes 35 - 02.03.2023.md",
     "Untitled.md",
     "Organisationen/Vayra.md",
     "Organisationen/Ulakian.md",
@@ -153,9 +194,6 @@
     "Notes/Notes 16 - 10.07.2022.md",
     "Pete.md",
     "Jimmy J. D. Goblin.md",
-    "Jonny J. D. Goblin.md",
-    "Notes/Notes 0 - 22.12.2021.md",
-    "Notes/Notes 11 - 27.03.2022.md",
     "Karten/Sturmklaue_Flagge.png"
   ]
 }

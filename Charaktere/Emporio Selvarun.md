@@ -18,8 +18,8 @@ Jugendname: Kazaa
 
 Teleportation Circle locations:
 - mollekorns 
+- baelstrom unterirdisch
 - universität
-- admiralsplato
 - pete
 
 
