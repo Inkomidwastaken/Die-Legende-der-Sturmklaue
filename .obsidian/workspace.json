@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c77e91f86d6c495d",
+            "id": "0833643fc220178f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Notes 39 - 12.04.2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "200f1cc0fd991881",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes 40 - 24.05.2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b265a2bfa36a3e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wahlkampf Freihafen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24ae4e8f82f24d9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Notes 35 - 02.03.2023.md",
+                "file": "Orte/Wall.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,9 +56,16 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "55ec8fa8cc9d72ed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -115,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes 40 - 24.05.2023.md",
+                "file": "Orte/Wall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes 40 - 24.05.2023.md",
+                "file": "Orte/Wall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,47 +123,47 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "switcher:Schnellauswahl öffnen": false,
-      "graph:Graphen-Ansicht öffnen": false,
-      "canvas:Create new canvas": false,
-      "command-palette:Befehlspalette öffnen": false,
-      "markdown-importer:Markdown Importprogramm öffnen": false
+      "canvas:Create new canvas": false
     }
   },
-  "active": "200f1cc0fd991881",
+  "active": "0833643fc220178f",
   "lastOpenFiles": [
-    "Wahlkampf Freihafen.md",
-    "Notes/Notes 35 - 02.03.2023.md",
-    "Notes 40 - 24.05.2023.md",
-    "Notes/Notes 29 - 19.01.2023.md",
-    "Charaktere/Emporio Selvarun.md",
-    "Notes/Notes 38 - 05.04.2023.md",
-    "Notes/Notes 39 - 12.04.2023.md",
-    "Charaktere/Ajay Mollekorn.md",
-    "Notes/Notes 37 - 02.04-2023.md",
-    "Notes/Notes 33 - 16.02.2023.md",
-    "Notes/Notes 34 - 23.02.2023.md",
-    "Untitled.md",
-    "Organisationen/Vayra.md",
-    "Organisationen/Ulakian.md",
-    "Organisationen/Fellonhall (Haus).md",
-    "Organisationen/Die 7.md",
-    "Organisationen/Arahel.md",
+    "Organisationen/Selvarun.md",
     "Organisationen/5 große Elfenhäuser.md",
-    "Notes/Notes 36 - 26.03.2023.md",
-    "Charaktere/Pete.md",
-    "Charaktere/Jonny J. D. Goblin.md",
-    "Charaktere/Jimmy J. D. Goblin.md",
+    "Organisationen/Arahel.md",
+    "Selvarun Vermächtnis.md",
+    "To-do.md",
+    "Untitled.md",
+    "Verschwinden von Umberlee.md",
+    "Wahlkampf Freihafen.md",
+    "Wunschliste.md",
+    "Orte/Wall.md",
+    "Orte/Fellonhall.md",
+    "Charaktere/Fayrith Fellonhall.md",
+    "Notes/Notes 40 - 24.05.2023.md",
+    "Notes/Notes 38 - 05.04.2023.md",
+    "Organisationen/Sturmklaue.md",
+    "Charaktere/Teclis Fellonhall.md",
+    "Notes/Notes 39 - 12.04.2023.md",
+    "Charaktere/Ellaria Fellonhall.md",
+    "Organisationen/Ulakian.md",
+    "Organisationen/Vayra.md",
     "Charaktere/Aelis Vayra.md",
-    "Notes/Notes 16 - 10.07.2022.md",
-    "Pete.md",
-    "Jimmy J. D. Goblin.md",
+    "Orte/Sekunda.md",
+    "Ereignisse/Mondfall.md",
+    "Notes/Notes 37 - 02.04-2023.md",
+    "Organisationen/Fellonhall (Haus).md",
+    "Notes/Notes 28 - 29.12.2022.md",
+    "Karten/Map - Uthrend.png",
     "Karten/Sturmklaue_Flagge.png"
   ]
 }
