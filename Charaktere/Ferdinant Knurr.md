@@ -1,5 +1,5 @@
 ---
-aliases: der gnolle Ferdinant
+aliases: der gnolle Ferdinant, Ferdinant Braun
 tags: NPC
 ---
 Race: Gnoll

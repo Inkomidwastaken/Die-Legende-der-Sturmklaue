@@ -9,6 +9,14 @@ Billy tritt der Crew bei.
 Grambambuli fährt auch mit um weiter am Schiff zu arbeiten.
 Emporio wird neuer erster Maat.
 
+Grambambuli baut seine Kanonen fertig
+
+Auf dem Weg nach Fallonhall treffen wir auf 3 Durgos Schiffe
+Ein Frachtschiff und zwei Kampfschiffe
+Wir schalten eines der Kampfschiffe aus. Das zweite bleibt zurück.
+Wir holen zum anderem Schiff au.
+
+
 
 
 

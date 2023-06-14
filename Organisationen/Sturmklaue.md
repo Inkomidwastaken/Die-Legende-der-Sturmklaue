@@ -39,10 +39,20 @@ Die Sturmklaue ist ein Piratenschiff unter der Leitung von Kapitän [[Vandock]].
 
 
 ## Merkmale und Aussehen:
+
+### Upgrades:
+- Reisfeste Segel
+- [[Susie]]
+- Mondblut Armor
+- 4 Kanonen
+
+
 ### Flagge:
 ![[Sturmklaue-Flagge2.png|300]]
 gallionsfigur:
-bronzener greif
+früher: bronzener greif
+jetzt: [[Susie]]
+
 
 ## Lagerraum:
 siehe Roll20 *"Schiffsladung"*

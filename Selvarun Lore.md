@@ -62,87 +62,55 @@ Ist keine genaue Eingrenzung. Nur ein bisschen Inspiration.
 ## Erendriel Selvarun
 
 Ehemaliges Oberhaupt der der Familie
-
 Vater von Allannia Selvarun
-
 Einer von drei Selvaruns die sie für die Errichtung des Walls geopfert haben
 
 ## ???
 
 Erendriels Frau
-
 Entweder tot oder lebt jetzt in der Feywild als verrückte alte Oma (wit Toph in tLoK).
 
 ## Allannia Selvarun
 
 Momentanes Oberhaupt der Familie
-
 Einzige hinterbliebene der Selvaruns nach Errichtung des Walls
-
 Freigeist. Chaotin. Rebellin. Exzentrisch
-
 Lange lockige braune Hare. Große runde Brille
-
 Einige Lv Bard (College of Creation) + Max Lv Selvarun Spells
-
 Hofft das ihr Sohn in seiner Reise lernt ein bisschen aus sich heraus zu kommen.
 
 **Geschichte:**
-
 Selbst für Selvarun Verhältnisse sehr chaotisch
-
 Vorherige Generation der Selvaruns eher konservativ (für Selvaruns)
-
 Es kam oft zu Meinungsverschiedenheiten mit ihrem Vater.
-
 Verhältnis mit Vater daher lange angespannt.
-
 Ist aber unumstritten eine sehr begabte und begeisterte Glasbläserin. Ziemliche prodigy sogar in dem Handwerk.
-
 Trotz schwierigen Verhältnissen führt sie also Familienhandwerk fort.
-
 Nach Mondfall arbeiten alle Selvaruns zusammen, um den Wall zu errichten.
-
 Durch die Zusammenarbeit verbessert sich das Verhältnis zu ihrem Vater, als beide ihre verschiedenen Stiele anerkennen und würdigen.
-
 Aktivierung Des Walls ist nicht ohne einen „Katalysator“ in jedem der 3 Türme möglich. Der Vater und 2 weitere Selvaruns opfern sich, um den Wall in betrieb zu nehmen. Bis heute steht in Zentrum jeden Turms ein zu Glas gewordener Selvarun (Petrified aber zu Glas)
-
 Ist nun erstmal die einzige verbliebene des Hauses
-
 Lernt auf einer großem Galadinner Eolyre kennen
-
 Die beiden Heiraten
-
 Emporio kommt auf die Welt.
 
 ## Eolyre Selvarun
 
 Ehemals Eolyre Loramaer
-
 Ehemaliger Head-Archivist der Königlichen Bibliothek. Kennt eventuell einige Geheimnisse des Landes.
-
 Ruhig. Calculated. Logisch.
-
 Lange graublonde Haare. Keine Brille
 
 **Geschichte:**
-
 Kam als Head Head-Archivist gut zurecht. Fand sein Leben aber eintönig
-
 Lernt auf einer großen Feier des Hauses Fellonhall Allannia kennen.
-
 Nachdem sich die Beziehung festigt beendet er seine Arbeit als Head-Archivist und zieht zu Allannia (Heiraten Elfen oder ist das eher so ein Menschen Ding?)
-
 Lernt von Basics der Selvarun Handwerkskunst
 
 ## Emporio Selvarun
 
-…
-
 Hat sein Akademisches verhalten von seinem Vater
-
 Um einiges normaler Elf als seine Mutter. Hat aber dennoch wie alle Selvarund einen drang zum extraordinären
-
 Kann seine Mutter im extraordinär sein aber nicht überbieten. Was auch antreibende Kraft für Auslandsstudium War.
 
 # Freunde der Familie
@@ -154,59 +122,40 @@ Kurz vor Mondfall geboren. Wahr mit 13 durch Mondfall verweist . Erfolgreich nac
 
 Organisiert zwei Warenhäuser und Handelskarawanen vom westlichen Hafen in den Norden Fellonhalls.
 Neben Legalen Gütern schmuggelt er auch manchmal illegale Ware. 
-Allannia kauft von ihm manchmal exotische Materialien für ihre Kunst. (z.B. Monderz)
+Allannia kauft von ihm manchmal exotische Materialien für ihre Kunst. (z.B. Mondblut)
 
 ## Bäcker Familie
 
-Die Familie Betreibt seit Generationen eine Bäckerei in []. Emporio hat sich hier früher immer Kuchen gekauft. Der Sohn der Familie ist gut mit Emporio befreundet.
-
-
+Die Familie Betreibt seit Generationen eine Bäckerei im Norden von Fallonhall. Emporio hat sich hier früher immer Kuchen gekauft. Der Sohn der Familie ist gut mit Emporio befreundet.
 
 ## The green Wanderer
 
 Nitzza Zweinacht
-
 Calenrandir        
 Corchadar        
 
 Class: Paladin (Ancients) oder Paladin/Warlock
-
 Rasse: First Asimar
-
 Die First Asimar wurden von den Göttern am Anfang der Schöpfung geschaffen um den anderen Rassen zu Helfen.
 
 Nitzza wandert oft zwischen der Material Plane und der Feywild, löst Konflikte, die bei der Überschneidung der beiden Planes entstehen und führt verirrte reisende zurück zu ihrer Plane.
-
 Hat zusätzlich die Aufgaben eines Ancient Paladins. Kurz: „Freude erhalten“.
-
 Nitzza ist nichtmehr sehr presänt, da die die Rassen von Uthret heutzutage nichtmehr auf die Hilfe der First Asimar angewiesen sind.
-
 Ist unter den Elfen teils immer noch als der Grüne Wanderer bekannt.
-
 Alter Freund von Allannia Selvarun.
-
 Hat gemischte Gefühle über moderne Nationen. „Zivilisatin bringt Zusammenhalt mit sich aber auch eine neue Form on Gespaltenheit“
-
 Ist mit einer minor Archfey, der „Laydy oft he Woods“ verheiratet.
 Archfey macht irgendwas mit Krähen was auf ihn übergeht. (Vieleicht Warlock)
 Krähen kommen manchmal zu Nitzza und erzählen ihm dinge. Oft Nutzlose dinge...
 
 Eine Geschichte:
-
 Hat in einem Früheren Zeitalter Kinder adoptiert und großgezogen.
-
 Sein erster Sohn hat einen eigenen Stadtstaat gegründet
-
 Bestehender Herrscher des Landes fand das aber nicht toll.
-
 Sohn wurde von einem neuen korrupten Anführer aus eigenem Staat verbannt.
-
 Hat Rebellion gegründet und ist verrückt geworden.
-
 Am ende musste Nitzza seinen eigenen Sohn töten der die gesamte Stadt in die Luft jagen wollte.
-
 (ask me for more details)
-
 
 Glas Katana (I wonder who made that)
 Schwarze Chitin Plattenrüstung ( Fey flavored Plate Armor)

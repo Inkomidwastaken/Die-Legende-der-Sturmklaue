@@ -20,14 +20,6 @@
             }
           },
           {
-            "id": "d3872e6eccb32ebd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "ed298081870f9a25",
             "type": "leaf",
             "state": {
@@ -40,7 +32,7 @@
             }
           },
           {
-            "id": "56676c504a8f70aa",
+            "id": "9324eaf0dfccfb3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sturmk",
+                "query": "monds",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,32 +175,32 @@
   },
   "active": "ed298081870f9a25",
   "lastOpenFiles": [
-    "Selvarun Lore.md",
     "Billy.md",
-    "Grambambuli.md",
-    "Charaktere/Balok T'sar.md",
-    "Notes/Notes 41 - 14.06.2023.md",
     "Organisationen/Sturmklaue.md",
+    "Notes/Notes 41 - 14.06.2023.md",
+    "Selvarun Lore.md",
+    "Items/Mondschätze.md",
+    "Charaktere/Balok T'sar.md",
+    "Notes/Notes 37 - 02.04-2023.md",
+    "Notes/Notes 38 - 05.04.2023.md",
+    "Notes/Notes 39 - 12.04.2023.md",
+    "Charaktere/Ferdinant Knurr.md",
+    "Notes/Notes 40 - 24.05.2023.md",
+    "Grambambuli.md",
     "Charaktere/Jon Hannes.md",
     "Charaktere/Arcy.md",
     "Selvarun Vermächtnis.md",
     "Wahlkampf Freihafen.md",
-    "Notes/Notes 40 - 24.05.2023.md",
     "Notes 40 - 24.05.2023.md",
     "Notes/Notes 35 - 02.03.2023.md",
-    "Notes/Notes 39 - 12.04.2023.md",
     "Notes/Notes 29 - 19.01.2023.md",
     "Charaktere/Emporio Selvarun.md",
-    "Notes/Notes 38 - 05.04.2023.md",
     "Charaktere/Ajay Mollekorn.md",
-    "Notes/Notes 37 - 02.04-2023.md",
     "Notes/Notes 33 - 16.02.2023.md",
     "Notes/Notes 34 - 23.02.2023.md",
     "Untitled.md",
     "Organisationen/Vayra.md",
     "Organisationen/Ulakian.md",
-    "Organisationen/Fellonhall (Haus).md",
-    "Organisationen/Die 7.md",
     "Karten/Sturmklaue_Flagge.png"
   ]
 }
