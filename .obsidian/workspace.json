@@ -13,13 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wahlkampf Freihafen.md",
+                "file": "Selvarun Lore.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3872e6eccb32ebd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ed298081870f9a25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Notes 41 - 14.06.2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56676c504a8f70aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organisationen/Sturmklaue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c11e791424fc3f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Billy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sturmk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahlkampf Freihafen.md",
+                "file": "Notes/Notes 41 - 14.06.2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wahlkampf Freihafen.md",
+                "file": "Notes/Notes 41 - 14.06.2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,13 +181,21 @@
       "markdown-importer:Markdown Importprogramm öffnen": false
     }
   },
-  "active": "4edd77fe9e40ba51",
+  "active": "ed298081870f9a25",
   "lastOpenFiles": [
     "Selvarun Lore.md",
+    "Billy.md",
+    "Grambambuli.md",
+    "Charaktere/Balok T'sar.md",
+    "Notes/Notes 41 - 14.06.2023.md",
+    "Organisationen/Sturmklaue.md",
+    "Charaktere/Jon Hannes.md",
+    "Charaktere/Arcy.md",
+    "Selvarun Vermächtnis.md",
+    "Wahlkampf Freihafen.md",
     "Notes/Notes 40 - 24.05.2023.md",
     "Notes 40 - 24.05.2023.md",
     "Notes/Notes 35 - 02.03.2023.md",
-    "Wahlkampf Freihafen.md",
     "Notes/Notes 39 - 12.04.2023.md",
     "Notes/Notes 29 - 19.01.2023.md",
     "Charaktere/Emporio Selvarun.md",
@@ -156,14 +209,6 @@
     "Organisationen/Ulakian.md",
     "Organisationen/Fellonhall (Haus).md",
     "Organisationen/Die 7.md",
-    "Organisationen/Arahel.md",
-    "Organisationen/5 große Elfenhäuser.md",
-    "Notes/Notes 36 - 26.03.2023.md",
-    "Charaktere/Pete.md",
-    "Charaktere/Jonny J. D. Goblin.md",
-    "Charaktere/Jimmy J. D. Goblin.md",
-    "Charaktere/Aelis Vayra.md",
-    "Notes/Notes 16 - 10.07.2022.md",
     "Karten/Sturmklaue_Flagge.png"
   ]
 }

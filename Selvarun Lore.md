@@ -1,66 +1,59 @@
 # Das Haus Selvarun
 
-Gründungshaus von Fallonhall
+Eines der Gründungshäuser von Fallonhall.
+Kleinstes und unbekanntestes der Gründungshäuser.
+Ist außerhalb von Fellonhall nur wenigen bekannt.
+Hat Ländereien im Norden von Fellonhal. Verwaltet diese aber nur indirekt.
+Der wenige Einfluss des Hauses stammt hauptsächlich von gesellschaftlichem Prestige.; "Es ist cool einen Selvarun auf der Party zu haben".
+(Nach Errichtung des Walls ist der Prestige stark gestiegen).
+Neben politischen Connections bewegt sich das Haus hauptsächlich in höheren Gesellschaftsschichten. (Reiche Kunden für Kunstwerke)
 
-Begnadete Glasbläser / Glashandwerker
-
-Sind Hauptsächlich in oberen gesellschaftsschichten unterwegs
-
-Keinen direkten politischein Einfluss. (keine starke millitärische, religiöse oder finanzielle Kraft)
-
-Reich aber reiche Handelsfamilien haben mehr druckmittel.
-
-Sehr viel Prestige. Gründungshaus. Angesehene Künstler. Man ist cool wenn man einen Selvaun kennt. Vor allem Prestige durch errichtung des Walls
-
-Jeder de Familie war schon immer auf eine eigene art „extra“. bisschen verrückt oder außerhalb der norm
-
+Das Haus ist bekannt für die begnadeten Glasbläser / Glashandwerker die es hervorbringt.
 Familienerbe besteht aus verschiedenen „Kunstwerken“ und antiker Magie.
+Kunstwerke sind oft magische Items, aber nicht immer. (Glaskuppel der Halle in Am’Jarr?)
+Jeder bedeutende  Selvarun hat der Wellt mindestens ein bekanntes Kunstwerk hinterlassen.
 
-Kunstwerke sind oft magical Items, aber nicht immer.
+Jeder de Familie war schon immer auf eine eigene Art „extra“, bisschen verrückt oder außerhalb der norm. Manche mehr, manche weniger.
 
-Manche Selvaruns sind durch nicht magische Kunstwerke verewicht
+## Der Wall
 
-(Glaskuppel der Halle in Am’Jarr?)
+Nach Mondfall arbeiten alle Selvaruns zusammen, um bei der Errichtung des Wall zu helfen.
 
-Jeder Selvarun hat der Wellt mindestens ein bekanntes Kunstwerk hinterlassen.
+Aktivierung Des Walls ist nicht ohne einen „Katalysator“ in jedem der 3 Türme möglich. Drei Selvaruns opfern sich, um den Wall in betrieb zu nehmen. Bis heute steht in Zentrum jeden Turms ein zu Glas gewordener Selvarun (Petrified aber zu Glas)
 
-Der Wall
+## Inspiration
 
-3 selvaruns wurden für Wall geopfert. Daher war Mama Selvarun erstmal die letzte hinterbliebene
+**Prince Rupert's drop:**
+Phänomen aus der echten Welt.
+Wenn man geschmolzenes Glas in Wasser tropfen lässt wird der Tropfen durch den Abkühlprozess extrem Hart. Wird das dünne ende des Tropfens abgebrochen explodiert der gesamte Tropfen.
 
-Ideen für Zauber
+**Ästhetik:**
+Unter Ästhetik verstehe ich ein groben common denominator wie die Selvaruns und ihre Kunst auftreten. Natürlich ist jeder Selvarun eigen
 
-Ist keine genaue Eingrenzug. Nur ein bisschen Inspiration.
+Ich sehe da aber 2 mögliche stiele:
+- V1: alles ist perfekt durchsichtigem und ungefärbtem glas geformt. „rein“, "perfektionistisch"
+- V2: Verschiedene Buntgläser zusammengesetzt. „chaotisch“, „kreativ“
 
--          Schutzzauber wie shield und Wall of Force. Siehe den Wall. Es gibt auch das Magische Item „Staff of Protection“
+Vielleicht machen alle Selvaruns einfach beides oder eine Mischung. Oder vielleicht ist das so ein Generationen ding. Die einen machen eher v1 die anderen eher v2. 
 
-„ein stab aus glas der mage armor und shield casten kann“
+**Ideen für Zauber:**
 
--          Shatter. Weil glas zerbrechen kann.
+Ist keine genaue Eingrenzung. Nur ein bisschen Inspiration.
 
--          Auf sicht begrenzte Illusionszauber. Licht wird von Glas gebrochen
+-  Schutzzauber wie shield und Wall of Force. Siehe den Wall. Es gibt auch das Magische Item „Staff of Protection“
+- Shatter. Weil glas zerbrechen kann.
+- Auf Sicht begrenzte Illusionszauber. Licht wird von Glas gebrochen
+-  Aud Sicht begrenzte Divination zauber. Magische Brillen und Spiegel.
+-  Zuber wie Transmute Stone aber halt für glas
 
--          Aud sicht begrenzte Divination zauber. Magische Brillen und Spiegel.
 
--          Zaber wie Transmute Stone aber halt für glas
 
-Prince rupert drops
 
-Prince Rupert drops sind ein Phänomen in der echten wellt. Siehe Youtube
 
-Ästethik der Selvaruns
 
-Unter Ästhetik verstehe ich ein groben commen denominator wie die Selvaruns und ihre Kunst auftreten. Natürlich ist jeder Selvarun eigen
-
-Ich sehe da aber 2 mögliche stiele
-
-V1: alles ist perfekt durchsihtigen un d ungefärbtem glas geformt. „rein“. Perfektionistisch.
-
-V2: Verschiedene Buntgläser zusammengesetzt. „chaotisch“, „Creativ“
-
-Vielleicht machen alle selvaruns einach beides oder eine mischung. Oder vielleicht ist das so n generationen ding. Die einen machen eher v1 die anderen eher v2.
 
 # Bekannte Mitglieder der Familie
+
 
 
 ![](file:///C:/Users/Inkomid/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png)
@@ -153,12 +146,21 @@ Um einiges normaler Elf als seine Mutter. Hat aber dennoch wie alle Selvarund ei
 Kann seine Mutter im extraordinär sein aber nicht überbieten. Was auch antreibende Kraft für Auslandsstudium War.
 
 # Freunde der Familie
-
 ## Gnom händler
 
-Kokonteppi?
+Markus Kokonteppi
 
-Kurz vor mondfall geboren. Wahr mit 13 weise. Erfolgreich nach fellonhall geflüchtet. Am anfang gebettelt und gestreunert. (nicht gern gesehen in Fallonhall). Mit der Zeit aber erfolgreicher Handelsmann geworden.
+Kurz vor Mondfall geboren. Wahr mit 13 durch Mondfall verweist . Erfolgreich nach Fellonhall geflüchtet. Am Anfang gebettelt und gestreunert. (nicht gern gesehen in Fallonhall). Mit der Zeit aber erfolgreicher Handelsmann geworden.
+
+Organisiert zwei Warenhäuser und Handelskarawanen vom westlichen Hafen in den Norden Fellonhalls.
+Neben Legalen Gütern schmuggelt er auch manchmal illegale Ware. 
+Allannia kauft von ihm manchmal exotische Materialien für ihre Kunst. (z.B. Monderz)
+
+## Bäcker Familie
+
+Die Familie Betreibt seit Generationen eine Bäckerei in []. Emporio hat sich hier früher immer Kuchen gekauft. Der Sohn der Familie ist gut mit Emporio befreundet.
+
+
 
 ## The green Wanderer
 
