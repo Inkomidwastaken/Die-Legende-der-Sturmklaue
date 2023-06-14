@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orte/Wall.md",
+                "file": "Charaktere/Emporio Selvarun.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bf9c84b576b9d7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Selvarun Lore.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "empori",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orte/Wall.md",
+                "file": "Selvarun Lore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orte/Wall.md",
+                "file": "Selvarun Lore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,18 +148,20 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "0833643fc220178f",
+  "active": "9bf9c84b576b9d7c",
   "lastOpenFiles": [
+    "Charaktere/Emporio Selvarun.md",
+    "Selvarun Lore.md",
+    "Karten/Map - Uthrend.png",
+    "Orte/Wall.md",
     "Organisationen/Selvarun.md",
     "Organisationen/5 große Elfenhäuser.md",
     "Organisationen/Arahel.md",
     "Selvarun Vermächtnis.md",
     "To-do.md",
-    "Untitled.md",
     "Verschwinden von Umberlee.md",
     "Wahlkampf Freihafen.md",
     "Wunschliste.md",
-    "Orte/Wall.md",
     "Orte/Fellonhall.md",
     "Charaktere/Fayrith Fellonhall.md",
     "Notes/Notes 40 - 24.05.2023.md",
@@ -162,8 +177,6 @@
     "Ereignisse/Mondfall.md",
     "Notes/Notes 37 - 02.04-2023.md",
     "Organisationen/Fellonhall (Haus).md",
-    "Notes/Notes 28 - 29.12.2022.md",
-    "Karten/Map - Uthrend.png",
     "Karten/Sturmklaue_Flagge.png"
   ]
 }
