@@ -1,5 +1,6 @@
-Rina
-Cyran
+
+
+
 
 # Das Haus Selvarun
 
@@ -40,7 +41,6 @@ Ich sehe da aber 2 mögliche stiele:
 Vielleicht machen alle Selvaruns einfach beides oder eine Mischung. Oder vielleicht ist das so ein Generationen ding. Die einen machen eher v1 die anderen eher v2. 
 
 **Ideen für Zauber:**
-
 Ist keine genaue Eingrenzung. Nur ein bisschen Inspiration.
 
 -  Schutzzauber wie shield und Wall of Force. Siehe den Wall. Es gibt auch das Magische Item „Staff of Protection“
@@ -57,12 +57,9 @@ Ist keine genaue Eingrenzung. Nur ein bisschen Inspiration.
 
 # Bekannte Mitglieder der Familie
 
+![[Selvarun Stammbaum.canvas]]
 
-
-![](file:///C:/Users/Inkomid/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png)
-
-
-## Erendriel Selvarun
+## Erendiel Selvarun
 
 Ehemaliges Oberhaupt der der Familie
 Vater von Allannia Selvarun
@@ -73,7 +70,8 @@ Einer von drei Selvaruns die sie für die Errichtung des Walls geopfert haben
 Erendriels Frau
 Entweder tot oder lebt jetzt in der Feywild als verrückte alte Oma (wit Toph in tLoK).
 
-## Allannia Selvarun
+## Rinaria Selvarun 
+aka Rina
 
 Momentanes Oberhaupt der Familie
 Einzige hinterbliebene der Selvaruns nach Errichtung des Walls
@@ -97,9 +95,8 @@ Lernt auf einer großem Galadinner Eolyre kennen
 Die beiden Heiraten
 Emporio kommt auf die Welt.
 
-## Eolyre Selvarun
+## Cyran Eylore
 
-Ehemals Eolyre Loramaer
 Ehemaliger Head-Archivist der Königlichen Bibliothek. Kennt eventuell einige Geheimnisse des Landes.
 Ruhig. Calculated. Logisch.
 Lange graublonde Haare. Keine Brille
@@ -113,7 +110,7 @@ Lernt von Basics der Selvarun Handwerkskunst
 ## Emporio Selvarun
 
 Hat sein Akademisches verhalten von seinem Vater
-Um einiges normaler Elf als seine Mutter. Hat aber dennoch wie alle Selvarund einen drang zum extraordinären
+Um einiges normaler Elf als seine Mutter. Hat aber dennoch wie alle Selvaruns einen drang zum extraordinären
 Kann seine Mutter im extraordinär sein aber nicht überbieten. Was auch antreibende Kraft für Auslandsstudium War.
 
 # Freunde der Familie

@@ -22,6 +22,11 @@ Teleportation Circle locations:
 - universität
 - pete
 
+## Familienverhältniss:
+Hat sein Akademisches verhalten von seinem Vater
+Um einiges normaler Elf als seine Mutter. Hat aber dennoch wie alle Selvaruns einen drang zum extraordinären
+Kann seine Mutter im extraordinär sein aber nicht überbieten. Was auch antreibende Kraft für Auslandsstudium War.
+
 
 Aufgaben auf der [[Sturmklaue]]:
 - Quatiermeister (eschuhlt von [[Vandock]])

@@ -2,12 +2,8 @@
 tags: ship
 ---
 
-# Die Sturmklaue
-Die Sturmklaue ist ein Piratenschiff unter der Leitung von Kapitän [[Vandock]].
 
-## Crew:
-
-
+# Crew:
 [[Balok T'sar]], Kapitän, Entercommander
 [[Emporio Selvarun]], Quatiermeister, Erster Maat
 [[John Nelson]], Koch, Schiffsbetriebsmeister (Lehrling)
@@ -16,42 +12,42 @@ Die Sturmklaue ist ein Piratenschiff unter der Leitung von Kapitän [[Vandock]].
 
 [[Jon Hannes]] der Kobold
 [[Ferdinant Knurr]] der Gnoll
-[[Miranda]]
+[[Miranda]], Köchin
 [[Olaf der Söldner]]
 [[Vashraz der Invalide]]
+[[Susie]], Autopilot
 
-
-### Mitreisende:
-[[Helmut der Greis]]
-[[Luthrosa]] die Wallwächterin
-[[Grambambuli]]
-
-### Inaktive:
-[[Gemini]], Schiffsarzt - ins Feywild zurückgekehrt
+## Inaktive:
+[[Gemini]], Schiffsarzt - in die Feywild zurückgekehrt
 [[Ajay Mollekorn]],  Navigator, Steuermann, erster Maat 
 
-### Ehemalige:
+## Ehemalige:
 † [[Vandock]], Kapitän
 † [[Kurjuw]], Erster Mat
 † [[Arcy]], Navigatorin
 † [[Victor Kalvar]], Gunner, Steuermann (lehrling)
 
+## Mitreisende:
+[[Luthrosa]], Wallwächterin
+[[Grambambuli]], Sprengstofftechniker
+### Ehemalige Mitreisende:
+[[Helmut der Greis]]
 
 
-## Merkmale und Aussehen:
+# Merkmale und Aussehen:
 
-### Upgrades:
+## Upgrades:
 - Reisfeste Segel
 - [[Susie]]
-- Mondblut Armor
+- Mondblut Verstärkung
 - 4 Kanonen
 
-
-### Flagge:
+## Optik
+- Flagge:
 ![[Sturmklaue-Flagge2.png|300]]
-gallionsfigur:
-früher: bronzener greif
-jetzt: [[Susie]]
+- Gallionsfigur:
+	früher: bronzener greif
+	jetzt: [[Susie]]
 
 
 ## Lagerraum:
