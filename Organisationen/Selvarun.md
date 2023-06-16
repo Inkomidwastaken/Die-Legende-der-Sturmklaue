@@ -1,6 +1,41 @@
 Die Familie Selvarun ist ein Clan von Glasbläsern aus [[Fellonhall]] und eines der [[5 Gründungshäuser von Fellonhall]].
 Sie haben an der Entwicklung des [[Wall|Walls]] mitgewirkt.
 
+
+## Bekannte Mitglieder der Familie
+- [[Erendiel Selvarun]]
+- [[Unknown Selvarun]]
+- [[Rinaria Selvarun]]
+- [[Cyran Selvarun]]
+- [[Emporio Selvarun]]
+
+```mermaid
+graph TD
+
+p1[Erendiel Selvarun]
+p2[Unknown Selvarun]
+m1(( ))
+style m1 fill:#fff
+
+
+p1 --- m1
+p2 --- m1
+
+m1 --- p3
+
+p3[Rinaria Selvarun]
+p4[Cyran Selvarun]
+m2(( ))
+p3 --- m2
+p4 --- m2
+
+m2 --- p5
+
+p5[Emporio Selvarun]
+
+class p1,p2,p3,p4,p5 internal-link;
+```
+
 ## Facts
 Eines der Gründungshäuser von Fallonhall.
 Kleinstes und unbekanntestes der Gründungshäuser.
@@ -30,9 +65,7 @@ Magische Eigenschaften der Kunstwerke und Zauber der Selvaruns.
 - Auf Sicht begrenzte Divination Zauber. Magische Brillen und Spiegel.
 - Zuber wie Transmute Stone aber halt für glas
 
-
 ## Inspiration
-
 **Prince Rupert's drop:**
 Phänomen aus der echten Welt.
 Wenn man geschmolzenes Glas in Wasser tropfen lässt wird der Tropfen durch den Abkühlprozess extrem Hart. Wird das dünne ende des Tropfens abgebrochen explodiert der gesamte Tropfen.
@@ -45,14 +78,3 @@ Ich sehe da aber 2 mögliche stiele:
 - V2: Verschiedene Buntgläser zusammengesetzt. „chaotisch“, „kreativ“
 
 Vielleicht machen alle Selvaruns einfach beides oder eine Mischung. Oder vielleicht ist das so ein Generationen ding. Die einen machen eher v1 die anderen eher v2. 
-
-## Bekannte Mitglieder der Familie
-- [[Erendiel Selvarun]]
-- [[Unknown Selvarun]]
-- [[Rinaria Selvarun]]
-- [[Cyran Selvarun]]
-- [[Emporio Selvarun]]
-
-
-![[Selvarun Stammbaum.canvas]]
-
