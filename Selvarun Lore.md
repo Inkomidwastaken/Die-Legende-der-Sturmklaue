@@ -1,8 +1,6 @@
 # Das Haus Selvarun
  ![[Selvarun]]
 
-
-
 # Freunde der Familie
 
 ![[Kokonteppi Tosselong]]
@@ -14,5 +12,3 @@
 ---
 
 ![[Nitzza Zweinacht]]
-
-

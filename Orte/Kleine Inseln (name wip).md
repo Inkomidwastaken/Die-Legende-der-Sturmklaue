@@ -9,4 +9,4 @@ tags: location/area
 
 Pentagard erhebt kindof anspruch auf die Inseln, da sie von Sekunda stammen
 
-Auf einer der Inseln haben Duergar, bekante von [[Vandock]], eine unoffizielle miene betrieben. Jedoch wurden sie Alle von einem [[unheimlichen Leonin]] und seinen Kobolden umgebracht.
+Auf einer der Inseln haben Duergar, bekante von [[Vandock]], eine unoffizielle miene betrieben. Jedoch wurden sie Alle von einem [[spooky Leonin]] und seinen Kobolden umgebracht.

@@ -10,4 +10,3 @@ Wahr im Alter von 13 Jahren durch Mondfall verweist .
 Erfolgreich nach Fellonhall geflüchtet. 
 Am Anfang gebettelt und gestreunert. (nicht gern gesehen in Fellonhall). 
 Mit der Zeit aber erfolgreicher Handelsmann geworden.
-

@@ -4,38 +4,18 @@ Spells und Items die Ich gerne Emporios eigen nennen würde.
 
 # Magic Items:
 ## Homebrew:
-
-- [[#Boots of Bootlegging]]
 - [[#Wand of Garden Furniture Summoning]]
 - [[#Tea Time Tablecloth]]
 
 nicht wirklich für mich aber ich wollte homebrewen:
 - [[#Cast-On Armor]]
 - [[#Bell of Silent Chimes]]
-
+- [[#Boots of Bootlegging]]
 
 ## Official:
-Wie man sieht sind hier vor allem Wands gelistet. Dass ligt daran, dass es mich im Unterwasserdungeon ziehmlich generft hat, dass ich keine "spammable" action hatte. Nur große concentration Spells, die man einmal casted und sich dann aus dem Kampf raushällt. 
-*Wand of Magic Missile* oder ähnliches verschafft da abhilfe.
-
-flavor:
 - [Wand of Conducting](https://5e.tools/items.html#wand%20of%20conducting_xge)
-- Wand of Pyrotechnics
-- Wand of Scowls
-normal:
-- immovable rod
-- Wand of Magic Missiles (gerne auch mehrmals, damit ich was mit meiner action machen kann)
-- Wand of Web
-- Wand of Wonder
-- Cloak of Displacement
+- [Wand of Magic Missiles ](https://5e.tools/items.html#wand%20of%20magic%20missiles_dmg)
 
-strong:
-- Wand of Fireballs
--  ___
-- Wand of Paralysis
-- Wand of Fear
-- Wand of Binding
-- Robe of Stars
 
 # Spells
 
@@ -47,23 +27,19 @@ strong:
 - Draconic Transformation
 - Illusory Dragon
 
+## Selvarun / Glas:
+- shatter
+- invisibility
+- greater invisibility
+
 ## Utility:
 - continual flame
-- Skywrite
 - Water Walk
-- Tenser's Floating Disk 
-- Unseen Servant 
 - Locate Object
-- identify
-- Glyph of Warding ( damage types für fireball)
 - Leomund's Tiny Hut
-- Rary's Telepathic Bond
-
-## Power
-- Scorching Ray (gerne auch als item wenn immernoch kompatibel mir scribe mage feature)
-- Animate Objects
+- Control Water
 - Control Winds
-- Telekinesis
+
 
 # Homebrew Items:
 

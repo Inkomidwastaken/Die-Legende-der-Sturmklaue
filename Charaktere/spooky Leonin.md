@@ -15,4 +15,4 @@ Während dem Ritual spricht er in Infernal und wiederholt folgenden Satz:
 Kurz vor seinem Tod spricht er noch:
 > "Jones wird kommen"
 
-Bei sich trug der Leonin unter anderen einen [[Ring]]
+Bei sich trug der Leonin unter anderen einen [[KdS Ring|Ring]]

@@ -52,4 +52,3 @@ Sohn wurde von einem neuen korrupten Anführer aus eigenem Staat verbannt.
 Hat Rebellion gegründet und ist verrückt geworden.
 Am ende musste Nitzza seinen eigenen Sohn töten der die gesamte Stadt in die Luft jagen wollte.
 (ask me for more details)
-

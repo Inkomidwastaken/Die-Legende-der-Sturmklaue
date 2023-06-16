@@ -28,7 +28,7 @@ Ajay macht mit göttertränen einen Trip
 - ist der rechten hand des betrügers anscheinend schon begegnet
 - kinder des sturms sind anhänger des verräters
 
-Unheimlicher tabaxi hat gesagt. kinder des sturms werden mich rechen
+Unheimlicher Leonin hat gesagt. kinder des sturms werden mich rechen
 
 Wir scouten das admiralshaus
 - Vick sieht von den klippen aus licht im 3ten stock. Dort steht ein Butler
