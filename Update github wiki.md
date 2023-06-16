@@ -3,6 +3,10 @@ copy local repository files to C:\Users\Inkomid\Documents\Obsidian\dLdSK_wiki\Di
 git add
 git commit
 git push
+oder
+```
+git push -f origin master
+```
 
 programm um lings umzuformatieren?
 bash skripr?
