@@ -2,9 +2,11 @@
 aliases: Rina
 tags: NPC
 ---
+	 "bisschen cringe Vayra" 
+	 - Rina zum Oberhaupt des Hauses Vayra
 
 Momentanes Oberhaupt der Familie [[Selvarun]]
-Einzige hinterbliebene der Selvaruns nach Errichtung des Walls
+Einzige hinterbliebene Selvarun nach Errichtung des Walls
 Meister Glasbläserin
 Mutter von [[Emporio Selvarun]]
 

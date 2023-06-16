@@ -10,10 +10,6 @@ Sie haben an der Entwicklung des [[Wall|Walls]] mitgewirkt.
 - [[Emporio Selvarun]]
 
 
-[a relative link](Emporio Selvarun.md)
-
-
-
 ```mermaid
 graph TD
 
