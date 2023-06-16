@@ -9,15 +9,17 @@ Sie haben an der Entwicklung des [[Wall|Walls]] mitgewirkt.
 - [[Cyran Selvarun]]
 - [[Emporio Selvarun]]
 
+
+[a relative link](Emporio Selvarun.md)
+
+
+
 ```mermaid
 graph TD
 
 p1[Erendiel Selvarun]
 p2[Unknown Selvarun]
 m1(( ))
-style m1 fill:#fff
-
-
 p1 --- m1
 p2 --- m1
 
@@ -30,9 +32,9 @@ p3 --- m2
 p4 --- m2
 
 m2 --- p5
-
 p5[Emporio Selvarun]
 
+%% style m1 fill:#fff
 class p1,p2,p3,p4,p5 internal-link;
 ```
 
