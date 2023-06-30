@@ -7,6 +7,7 @@ CTRL + P
 ```
 Export Vault to HTML
 ```
+(Multi-File Export)
 
 Zielordner auf Desktop:
 ```
