@@ -34,3 +34,5 @@ In der Kapitänskajüte finde wir den Kapitän der sich selbst erschossen hat
 Wir finden ein Logbuch mit Durgos Siegel
 
 
+
+
