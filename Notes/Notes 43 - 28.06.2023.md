@@ -65,5 +65,6 @@ und Wein Stephan. Weinträger von Joyboy
 
 Wir treffen uns mit Jack
 Er erzählt uns von der Schlacht
+
 Erzählt uns, dass kurz vor der Schlacht ein KdS Ring in Leviathan gefunden wurde
 

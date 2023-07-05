@@ -2,6 +2,7 @@ Wir holen das Durgos Handelsschiff an
 Sie ergeben sich
 
 ein 14 jähriger junge will immernoch kämpfen
+bobby.
 es ist der junge der bei der Sturmklaue in Windstärke 13 anheuern wollte
 
 Wir werden unter deck in den Laderaum geführt

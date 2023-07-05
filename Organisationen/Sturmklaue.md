@@ -30,6 +30,7 @@ tags: ship
 ## Mitreisende:
 [[Luthrosa]], Wallwächterin
 [[Grambambuli]], Sprengstofftechniker
+[[bobby]], Nachwuchsprogramm
 ### Ehemalige Mitreisende:
 [[Helmut der Greis]]
 
