@@ -35,6 +35,8 @@ A: Emporio es ist schön nach so langer zeit von dir zu hören diese Neuigkeiten
 
 Sending an Cyran Selvarun:
 Weist du etwas von einem goldenem Drachenei in Freihafen. Oder von dem Gott Deepwanderer?  Grüße. Emporio
+A: Emporio mein Sohn. Es freut mich sehr von dir zu hören. Keine direkten Infos. Ich schaue nach. Achte auf dich. komm bald wieder heim.
+
 
 wir kommen an einer großen Bucht (Leviathan) an.
 An Felswänden sind Treppen und Laufwege geschlagen oder angebaut. Tunneleingänge führen in den Berg.
