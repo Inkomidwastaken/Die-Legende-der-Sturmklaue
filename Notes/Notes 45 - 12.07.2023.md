@@ -1,9 +1,9 @@
-aelis fragt nach einer gläsernen schale im wert on 1000 gp. dass ist der gefallen der emporio ihr schuldet
+Aelis fragt nach einer gläsernen schale im wert on 1000 gp. dass ist der gefallen der emporio ihr schuldet
 
-Silvers frägt nach linsen für ein fernrohr
+Silvers frägt nach linsen für ein Fernrohr
 
 
-plötzich schlüpgt die drachenschildkröte
+plötzich schlüpft die Drachenschildkröte
 Silvers tauft sie squishy
 
 nach 2 tagen verlassen wir den dead mans run.
@@ -43,6 +43,8 @@ Balock erwischt den Frankie Dübel
 Fängt an Drows zu halozunieren und rennt zum Vulkan
 Schreit "Nimm das Lerena"
 Greift den teil der Crew an die ihm hinterher ist
+
+Aelis castet greater restoration auf Balock. Nachdem er nichtmeht high ist bricht ehr zusammen.
 
 ---
  Drachenschildkrötenschüssel.
