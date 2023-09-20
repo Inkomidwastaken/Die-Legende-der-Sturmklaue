@@ -14,8 +14,12 @@ Silvers und Billy planen Holz vom Weltenbaum zu stehlen
 	3. ???
 
 Die gruppe besucht ein gutes Lokal in Jorr'Kahn
-WSpäter sacken wir in der Hafentaverne ab und schmeißen ne dicke party
+Später sacken wir in der Hafentaverne ab und schmeißen ne dicke party
 
+Silvers bleibt als einziger nüchtern
+Silvers und Billy fragen Emporio nach dem Weltenbaum aus
+
+Die Session endet mit der Ausnüchterung
 
 
 
