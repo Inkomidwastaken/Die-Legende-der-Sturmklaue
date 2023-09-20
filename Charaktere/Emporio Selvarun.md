@@ -32,8 +32,7 @@ Große runde Brille
 ## Kräfte und Fähigkeiten
 fireball.exe
 
-### Teleportation Circle Locations:
-- mollekorns 
+### Teleportation Circle Locations: 
 - baelstrom unterirdisch
 - universität
 - pete
