@@ -4,7 +4,7 @@ eher Industrie Stadt
 
 
 Karack Kazim:
-Wir kaufen bei dem Händler wein aus death stalker Skorpion Gift
+Wir kaufen bei dem Händler schnapps aus death stalker Skorpion Gift
 Er wird ausschließlich von dem "Feuerclan" (Leonin-clan) Hergestellt
 Der Händler erzählt uns von einem Deathstalker Swarm der in der nähe der Stadt ein neues Nest bauen will
 
