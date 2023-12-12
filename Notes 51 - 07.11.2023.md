@@ -38,7 +38,7 @@ Emporio castet Wall of force um Balock
 Billy versucht erst Balock anzugreifen
 Balock erzählt von Billys Mutter
 Balock hat Billys Mutter auf einen Schmuggler Stützpunkt kennengelernt
-wollte sie freikaufen. Aber dann wurde sie nach Durgos verschoben
+wollte sie freikaufen. Aber dann wurde sie nach Pentagerd verschoben
 
 Aelis verwandelt Balock in ein Hun
 Hebt den Zauber auf den Wunsch von Billy wieder auf.

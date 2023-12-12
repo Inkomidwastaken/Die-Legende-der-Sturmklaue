@@ -36,6 +36,7 @@ fireball.exe
 - baelstrom unterirdisch
 - universität
 - pete
+- Haus Fellonhall
 
 ## Geschichte
 Fellonhall:
