@@ -1,4 +1,9 @@
 Glave
 ~ +2
-for every miss damage is added to the next attack
+gains charge for every miss
+charge can be used for ???
 
+
+alternativer name
+"backhanded complimenr"
+"backhanded support"
