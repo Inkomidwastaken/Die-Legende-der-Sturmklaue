@@ -28,9 +28,9 @@ Sagt ihm er soll dafür sorgen dass Brinlon Shar nie wieder für die Familie Arb
 
 Durchsucht Büro ihres Vaters
 Findet Briefe zwischem Vayra und Lady Selvarun über die geplante Hochzeit
-Findet Brief mit Drachenkopfsiegel der einen Brief erwähnt
+Findet Brief mit Drachenkopfsiegel der einen anderen Brief erwähnt
 
-Fliegt danach zu Kennlon
+Fliegt danach zu in ihre Praxis
 
 Emporio stellt sein Gesellenstück fertig. "Brenessel"
 

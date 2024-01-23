@@ -21,3 +21,22 @@ roll 1d(remaining chrages)
 +Mondherz
 Kabel vom Mondherz in den Lauf
 Feuert einen Laser und geht kaputt
+
+---
+
+beschreibung
+
+idee
+
+moi of operandi 1 (theorie)
+"1d6" schuss am tag. aber russisch roulette style
+
+Die Glaskannone hat 6 charges counting as amunition for this revolver
+One attack with this Attack consumes one charge
+
+after th
+
+moi of operandi 2 (damage missing)
+
+kombi mit herz des mondes:
+1 time laser
