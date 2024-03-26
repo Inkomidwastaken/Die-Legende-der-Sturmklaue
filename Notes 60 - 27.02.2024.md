@@ -24,7 +24,7 @@ Zurdro ist seit 80 Jahren im Orden
 Orden hat sich neulich mit drow zusammengeschlossen
 Oblivion hat sich mit der Drow Matriarchin Lyrena Ulas
 Bündnis besteht seit ein paar Monaten
-Danach wurden mehr und mehr Schreine für den DeepWanderer gebaut
+Danach wurden mehr und mehr Schreine für den Deep Wanderer gebaut
 
 Es gab Streit innerhalb des Ordens
 Oblivion hat gewonen
@@ -42,7 +42,7 @@ Drow Stadt heisst Boldrozzar
 
 Ajay hällt seine Rede im Forum Mollekornium
 
-Zieht wieder mit der Sturmklaue los
+Ajay Zieht wieder mit der Sturmklaue los
 Baelstrom leitet solange die Stadt
 
 Ajay hat in seinen neuen Körper keine Erdnussallergie mehr
@@ -66,3 +66,10 @@ Beide Gruppen treffen sich beim Schmied (Silvers bleibt im Keller)
 Der hat keine erschwinglichen leichten rüstungen
 
 Emporio bietet n eine Glass-Studded leather Armor herzustelen
+
+Aelis und Emporio gehen shopen
+
+Silvers, Balock und Ajay graben weiter nach der Wurzel
+Silvers versucht ein stück Rinde von der Wurzel zu schälen.
+Man hört einen Schrei in der gesamten Stadt
+Silvers schneidet ein kleines Stück a. Man hört einen zweiten Schrei
