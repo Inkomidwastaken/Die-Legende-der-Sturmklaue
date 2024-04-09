@@ -28,7 +28,7 @@ Dort Treffen wir auch einen Minotauren aus dem Teilweise Sprösslinge Wachsen
 
 Wir gehen den Tunnel hinab unten wartet der Feywarden bei der Wurzel
 
-Der Baum zeigt uns eine Vision der drei Leute die die Wurzel angegriffen haben
+Der Feywarden zeigt uns eine Vision der drei Leute die die Wurzel angegriffen haben
 
 Der Feywarden stellt Balock zur Rede
 

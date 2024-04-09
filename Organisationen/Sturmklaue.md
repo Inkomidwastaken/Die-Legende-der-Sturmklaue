@@ -8,7 +8,7 @@ tags: ship
 [[Emporio Selvarun]], Quatiermeister, Erster Maat
 [[John Nelson]], Koch, Schiffsbetriebsmeister (Lehrling)
 [[Aelis Vayra]] Heilerin
-[[Billy]],  Schütze
+[[Billy]],  Logistik
 
 [[Jon Hannes]] der Kobold
 [[Ferdinant Knurr]] der Gnoll
@@ -16,6 +16,7 @@ tags: ship
 [[Olaf der Söldner]]
 [[Vashraz der Invalide]]
 [[Susie]], Autopilot
+[[Daros Donragon]]
 
 ## Inaktive:
 [[Gemini]], Schiffsarzt - in die Feywild zurückgekehrt
