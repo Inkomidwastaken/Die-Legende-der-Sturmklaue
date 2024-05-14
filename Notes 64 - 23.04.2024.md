@@ -48,7 +48,7 @@ In Durgos und Ostamark aufgeteilt
 
 Emporios Großvater sagt Emporio soll ein stück von dem rotem Glas mitnehmen
 
-Leute die wir benachrichtigen solltn
+Leute die wir benachrichtigen wollen
 Fellonhall:
 	Anaria Selvarun
 	Fayrith Fellonhall
@@ -75,7 +75,7 @@ Piraten:
 	Racktack der Schrecken
 	Dampfbart
 
-Aelis ( mit Squishy) und Ajay prüfen ob man schon durch den Wall kommt. Beide kommen nicht durch
+Aelis ( mit Squishy) und Ajay prüfen ob man schon durch den Wall kommt. Beide kommen nicht durch.
 
 
 
